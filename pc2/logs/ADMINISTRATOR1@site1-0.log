@@ -1,0 +1,913 @@
+200520 094941.342|CONFIG|Thread-2|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200520 094941.343|INFO|Thread-2|info|
+200520 094941.355|INFO|Thread-2|info|Version 9 () Java ver 14.0.1 build  Windows 10 10.0 (amd64) 
+200520 094941.355|INFO|Thread-2|info|Login: administrator1 (aka administrator1)
+200520 094941.356|INFO|Thread-2|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200520 094941.357|INFO|Thread-2|startLog|Process id is 10928@DESKTOP-PII08I3
+200520 094941.357|INFO|Thread-2|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 094941.376|INFO|Thread-2|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 094942.985|INFO|Thread-2|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200520 094942.986|INFO|Thread-2|info|handlePacket end Packet[LOGIN_SUCCESS] #4 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 094942.987|INFO|Thread-2|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #4 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 095435.778|CONFIG|Thread-3|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200520 095435.778|INFO|Thread-3|info|
+200520 095435.790|INFO|Thread-3|info|Version 9 () Java ver 14.0.1 build  Windows 10 10.0 (amd64) 
+200520 095435.790|INFO|Thread-3|info|Login: administrator1 (aka administrator1)
+200520 095435.791|INFO|Thread-3|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200520 095435.792|INFO|Thread-3|startLog|Process id is 3440@DESKTOP-PII08I3
+200520 095435.792|INFO|Thread-3|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 095435.807|INFO|Thread-3|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 095437.064|INFO|Thread-3|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200520 095437.065|INFO|Thread-3|info|handlePacket end Packet[LOGIN_SUCCESS] #16 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 095437.065|INFO|Thread-3|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #16 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 104218.500|CONFIG|Thread-3|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200520 104218.500|INFO|Thread-3|info|
+200520 104218.510|INFO|Thread-3|info|Version 9 () Java ver 14.0.1 build  Windows 10 10.0 (amd64) 
+200520 104218.510|INFO|Thread-3|info|Login: administrator1 (aka administrator1)
+200520 104218.511|INFO|Thread-3|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200520 104218.513|INFO|Thread-3|startLog|Process id is 1924@DESKTOP-PII08I3
+200520 104218.514|INFO|Thread-3|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 104218.819|INFO|Thread-3|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 104218.877|INFO|Thread-3|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200520 104218.877|INFO|Thread-3|info|handlePacket end Packet[LOGIN_SUCCESS] #27 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 104218.878|INFO|Thread-3|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #27 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 104251.815|INFO|AWT-EventQueue-0|sendToLocalServer|Sending packet to server Packet[GENERATE_ACCOUNTS] #2 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+200520 104251.817|INFO|AWT-EventQueue-0|sendToLocalServer|Sent    packet to server Packet[GENERATE_ACCOUNTS] #2 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+200520 104251.818|INFO|AWT-EventQueue-0|sendToLocalServer|Sending packet to server Packet[GENERATE_ACCOUNTS] #3 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+200520 104251.819|INFO|AWT-EventQueue-0|sendToLocalServer|Sent    packet to server Packet[GENERATE_ACCOUNTS] #3 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+200520 104251.820|INFO|AWT-EventQueue-0|sendToLocalServer|Sending packet to server Packet[GENERATE_ACCOUNTS] #4 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+200520 104251.820|INFO|AWT-EventQueue-0|sendToLocalServer|Sent    packet to server Packet[GENERATE_ACCOUNTS] #4 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+200520 104251.891|INFO|Thread-7|info| receiveObject(S) start got Packet[ADD_SETTING] #29 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 104251.892|INFO|Thread-7|dumpPacket|Packet ADD_SETTING (Seq #29, o#29 ) recieveObject
+200520 104251.893|INFO|Thread-7|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-PII08I3 @ 192.168.42.152) (Contest Id: Default--733014880925450290)
+200520 104251.894|INFO|Thread-7|dumpPacket|    To: SERVER0 @ site 0
+200520 104251.896|INFO|Thread-7|dumpPacket|   key: ACCOUNT_ARRAY is: [Ledu.csus.ecs.pc2.core.model.Account; [Ledu.csus.ecs.pc2.core.model.Account;@592aff6b
+200520 104251.897|INFO|Thread-7|dumpPacket|   key: SITE_NUMBER is: java.lang.Integer 1
+200520 104251.898|INFO|Thread-7|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+200520 104251.899|INFO|Thread-7|info|handlePacket start Packet[ADD_SETTING] #29 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 104251.901|INFO|Thread-7|dumpPacket|Packet ADD_SETTING (Seq #29, o#29 ) handlePacket
+200520 104251.902|INFO|Thread-7|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-PII08I3 @ 192.168.42.152) (Contest Id: Default--733014880925450290)
+200520 104251.903|INFO|Thread-7|dumpPacket|    To: SERVER0 @ site 0
+200520 104251.904|INFO|Thread-7|dumpPacket|   key: ACCOUNT_ARRAY is: [Ledu.csus.ecs.pc2.core.model.Account; [Ledu.csus.ecs.pc2.core.model.Account;@592aff6b
+200520 104251.905|INFO|Thread-7|dumpPacket|   key: SITE_NUMBER is: java.lang.Integer 1
+200520 104251.905|INFO|Thread-7|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+200520 104251.941|INFO|Thread-7|info|handlePacket end Packet[ADD_SETTING] #29 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 104251.941|INFO|Thread-7|info| receiveObject(S) end   got Packet[ADD_SETTING] #29 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 104251.972|INFO|Thread-8|info| receiveObject(S) start got Packet[ADD_SETTING] #30 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 104251.972|INFO|Thread-8|dumpPacket|Packet ADD_SETTING (Seq #30, o#30 ) recieveObject
+200520 104251.974|INFO|Thread-8|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-PII08I3 @ 192.168.42.152) (Contest Id: Default--733014880925450290)
+200520 104251.975|INFO|Thread-8|dumpPacket|    To: SERVER0 @ site 0
+200520 104251.975|INFO|Thread-8|dumpPacket|   key: ACCOUNT_ARRAY is: [Ledu.csus.ecs.pc2.core.model.Account; [Ledu.csus.ecs.pc2.core.model.Account;@3aee1347
+200520 104251.976|INFO|Thread-8|dumpPacket|   key: SITE_NUMBER is: java.lang.Integer 1
+200520 104251.976|INFO|Thread-8|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+200520 104251.977|INFO|Thread-8|info|handlePacket start Packet[ADD_SETTING] #30 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 104251.978|INFO|Thread-8|dumpPacket|Packet ADD_SETTING (Seq #30, o#30 ) handlePacket
+200520 104251.979|INFO|Thread-8|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-PII08I3 @ 192.168.42.152) (Contest Id: Default--733014880925450290)
+200520 104251.980|INFO|Thread-8|dumpPacket|    To: SERVER0 @ site 0
+200520 104251.980|INFO|Thread-8|dumpPacket|   key: ACCOUNT_ARRAY is: [Ledu.csus.ecs.pc2.core.model.Account; [Ledu.csus.ecs.pc2.core.model.Account;@3aee1347
+200520 104251.981|INFO|Thread-8|dumpPacket|   key: SITE_NUMBER is: java.lang.Integer 1
+200520 104251.981|INFO|Thread-8|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+200520 104252.010|INFO|Thread-8|info|handlePacket end Packet[ADD_SETTING] #30 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 104252.011|INFO|Thread-8|info| receiveObject(S) end   got Packet[ADD_SETTING] #30 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 104252.030|INFO|Thread-9|info| receiveObject(S) start got Packet[ADD_SETTING] #31 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 104252.030|INFO|Thread-9|dumpPacket|Packet ADD_SETTING (Seq #31, o#31 ) recieveObject
+200520 104252.031|INFO|Thread-9|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-PII08I3 @ 192.168.42.152) (Contest Id: Default--733014880925450290)
+200520 104252.031|INFO|Thread-9|dumpPacket|    To: SERVER0 @ site 0
+200520 104252.032|INFO|Thread-9|dumpPacket|   key: ACCOUNT_ARRAY is: [Ledu.csus.ecs.pc2.core.model.Account; [Ledu.csus.ecs.pc2.core.model.Account;@195c36f8
+200520 104252.032|INFO|Thread-9|dumpPacket|   key: SITE_NUMBER is: java.lang.Integer 1
+200520 104252.032|INFO|Thread-9|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+200520 104252.033|INFO|Thread-9|info|handlePacket start Packet[ADD_SETTING] #31 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 104252.035|INFO|Thread-9|dumpPacket|Packet ADD_SETTING (Seq #31, o#31 ) handlePacket
+200520 104252.035|INFO|Thread-9|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-PII08I3 @ 192.168.42.152) (Contest Id: Default--733014880925450290)
+200520 104252.036|INFO|Thread-9|dumpPacket|    To: SERVER0 @ site 0
+200520 104252.037|INFO|Thread-9|dumpPacket|   key: ACCOUNT_ARRAY is: [Ledu.csus.ecs.pc2.core.model.Account; [Ledu.csus.ecs.pc2.core.model.Account;@195c36f8
+200520 104252.038|INFO|Thread-9|dumpPacket|   key: SITE_NUMBER is: java.lang.Integer 1
+200520 104252.039|INFO|Thread-9|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+200520 104252.062|INFO|Thread-9|info|handlePacket end Packet[ADD_SETTING] #31 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 104252.063|INFO|Thread-9|info| receiveObject(S) end   got Packet[ADD_SETTING] #31 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 104400.704|INFO|AWT-EventQueue-0|sendToLocalServer|Sending packet to server Packet[UPDATE_SETTING] #5 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+200520 104400.704|INFO|AWT-EventQueue-0|sendToLocalServer|Sent    packet to server Packet[UPDATE_SETTING] #5 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+200520 104400.795|INFO|Thread-11|info| receiveObject(S) start got Packet[UPDATE_SETTING] #32 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 104400.799|INFO|Thread-11|dumpPacket|Packet UPDATE_SETTING (Seq #32, o#5 ) recieveObject
+200520 104400.800|INFO|Thread-11|dumpPacket|  From: SERVER0 @ site 1, oADMINISTRATOR1 @ site 1 (DESKTOP-PII08I3 @ 192.168.42.152) (Contest Id: Default--733014880925450290)
+200520 104400.801|INFO|Thread-11|dumpPacket|    To: SERVER0 @ site 0
+200520 104400.802|INFO|Thread-11|dumpPacket|   key: CONTEST_INFORMATION is: edu.csus.ecs.pc2.core.model.ContestInformation edu.csus.ecs.pc2.core.model.ContestInformation@7f8fe28
+200520 104400.803|INFO|Thread-11|info|handlePacket start Packet[UPDATE_SETTING] #32 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 104400.803|INFO|Thread-11|dumpPacket|Packet UPDATE_SETTING (Seq #32, o#5 ) handlePacket
+200520 104400.809|INFO|Thread-11|dumpPacket|  From: SERVER0 @ site 1, oADMINISTRATOR1 @ site 1 (DESKTOP-PII08I3 @ 192.168.42.152) (Contest Id: Default--733014880925450290)
+200520 104400.809|INFO|Thread-11|dumpPacket|    To: SERVER0 @ site 0
+200520 104400.810|INFO|Thread-11|dumpPacket|   key: CONTEST_INFORMATION is: edu.csus.ecs.pc2.core.model.ContestInformation edu.csus.ecs.pc2.core.model.ContestInformation@7f8fe28
+200520 104400.818|INFO|Thread-11|updateScheduledStartTime|ContestTimePane.updateScheduledStartTime(): updated Scheduled Start Time field to undefined
+200520 104400.857|INFO|Thread-11|info|handlePacket end Packet[UPDATE_SETTING] #32 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 104400.860|INFO|Thread-11|info| receiveObject(S) end   got Packet[UPDATE_SETTING] #32 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 104445.593|INFO|AWT-EventQueue-0|sendToLocalServer|Sending packet to server Packet[ADD_SETTING] #6 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+200520 104445.594|INFO|AWT-EventQueue-0|sendToLocalServer|Sent    packet to server Packet[ADD_SETTING] #6 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+200520 104445.712|INFO|Thread-13|info| receiveObject(S) start got Packet[ADD_SETTING] #33 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 104445.714|INFO|Thread-13|dumpPacket|Packet ADD_SETTING (Seq #33, o#6 ) recieveObject
+200520 104445.715|INFO|Thread-13|dumpPacket|  From: SERVER0 @ site 1, oADMINISTRATOR1 @ site 1 (DESKTOP-PII08I3 @ 192.168.42.152) (Contest Id: Default--733014880925450290)
+200520 104445.721|INFO|Thread-13|dumpPacket|    To: SERVER0 @ site 0
+200520 104445.722|INFO|Thread-13|dumpPacket|   key: PROBLEM is: edu.csus.ecs.pc2.core.model.Problem summa
+200520 104445.723|INFO|Thread-13|dumpPacket|   key: PROBLEM_DATA_FILES is: edu.csus.ecs.pc2.core.model.ProblemDataFiles summa--4064439748716734462 3 data files, 3 answer files. Data: in1.in in2.in in3.in Answer: out1.ans out2.ans out3.ans  Output Validator: null Input Validator: null
+200520 104445.723|INFO|Thread-13|info|handlePacket start Packet[ADD_SETTING] #33 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 104445.723|INFO|Thread-13|dumpPacket|Packet ADD_SETTING (Seq #33, o#6 ) handlePacket
+200520 104445.724|INFO|Thread-13|dumpPacket|  From: SERVER0 @ site 1, oADMINISTRATOR1 @ site 1 (DESKTOP-PII08I3 @ 192.168.42.152) (Contest Id: Default--733014880925450290)
+200520 104445.725|INFO|Thread-13|dumpPacket|    To: SERVER0 @ site 0
+200520 104445.725|INFO|Thread-13|dumpPacket|   key: PROBLEM is: edu.csus.ecs.pc2.core.model.Problem summa
+200520 104445.725|INFO|Thread-13|dumpPacket|   key: PROBLEM_DATA_FILES is: edu.csus.ecs.pc2.core.model.ProblemDataFiles summa--4064439748716734462 3 data files, 3 answer files. Data: in1.in in2.in in3.in Answer: out1.ans out2.ans out3.ans  Output Validator: null Input Validator: null
+200520 104445.761|INFO|Thread-13|info|handlePacket end Packet[ADD_SETTING] #33 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 104445.761|INFO|Thread-13|info| receiveObject(S) end   got Packet[ADD_SETTING] #33 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 104706.778|CONFIG|Thread-3|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200520 104706.778|INFO|Thread-3|info|
+200520 104706.786|INFO|Thread-3|info|Version 9 () Java ver 14.0.1 build  Windows 10 10.0 (amd64) 
+200520 104706.787|INFO|Thread-3|info|Login: administrator1 (aka administrator1)
+200520 104706.788|INFO|Thread-3|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200520 104706.789|INFO|Thread-3|startLog|Process id is 5552@DESKTOP-PII08I3
+200520 104706.790|INFO|Thread-3|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 104707.067|INFO|Thread-3|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 104707.102|INFO|Thread-3|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200520 104707.102|INFO|Thread-3|info|handlePacket end Packet[LOGIN_SUCCESS] #38 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 104707.103|INFO|Thread-3|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #38 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 104829.571|CONFIG|Thread-3|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200520 104829.571|INFO|Thread-3|info|
+200520 104829.588|INFO|Thread-3|info|Version 9 () Java ver 14.0.1 build  Windows 10 10.0 (amd64) 
+200520 104829.589|INFO|Thread-3|info|Login: administrator1 (aka administrator1)
+200520 104829.589|INFO|Thread-3|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200520 104829.590|INFO|Thread-3|startLog|Process id is 13316@DESKTOP-PII08I3
+200520 104829.592|INFO|Thread-3|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 104830.061|INFO|Thread-3|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 104830.129|INFO|Thread-3|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200520 104830.137|INFO|Thread-3|info|handlePacket end Packet[LOGIN_SUCCESS] #43 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 104830.150|INFO|Thread-3|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #43 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 104921.321|CONFIG|Thread-3|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200520 104921.321|INFO|Thread-3|info|
+200520 104921.329|INFO|Thread-3|info|Version 9 () Java ver 14.0.1 build  Windows 10 10.0 (amd64) 
+200520 104921.330|INFO|Thread-3|info|Login: administrator1 (aka administrator1)
+200520 104921.330|INFO|Thread-3|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200520 104921.332|INFO|Thread-3|startLog|Process id is 9988@DESKTOP-PII08I3
+200520 104921.333|INFO|Thread-3|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 104921.632|INFO|Thread-3|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 104921.665|INFO|Thread-3|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200520 104921.665|INFO|Thread-3|info|handlePacket end Packet[LOGIN_SUCCESS] #48 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 104921.665|INFO|Thread-3|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #48 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 105443.375|CONFIG|Thread-3|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200520 105443.376|INFO|Thread-3|info|
+200520 105443.390|INFO|Thread-3|info|Version 9 () Java ver 14.0.1 build  Windows 10 10.0 (amd64) 
+200520 105443.392|INFO|Thread-3|info|Login: administrator1 (aka administrator1)
+200520 105443.393|INFO|Thread-3|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200520 105443.397|INFO|Thread-3|startLog|Process id is 7340@DESKTOP-PII08I3
+200520 105443.401|INFO|Thread-3|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 105443.901|INFO|Thread-3|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 105443.957|INFO|Thread-3|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200520 105443.959|INFO|Thread-3|info|handlePacket end Packet[LOGIN_SUCCESS] #53 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 105443.962|INFO|Thread-3|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #53 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 105808.444|CONFIG|Thread-3|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200520 105808.445|INFO|Thread-3|info|
+200520 105808.474|INFO|Thread-3|info|Version 9 () Java ver 14.0.1 build  Windows 10 10.0 (amd64) 
+200520 105808.475|INFO|Thread-3|info|Login: administrator1 (aka administrator1)
+200520 105808.476|INFO|Thread-3|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200520 105808.479|INFO|Thread-3|startLog|Process id is 2424@DESKTOP-PII08I3
+200520 105808.485|INFO|Thread-3|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 105809.235|INFO|Thread-3|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 105809.311|INFO|Thread-3|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200520 105809.317|INFO|Thread-3|info|handlePacket end Packet[LOGIN_SUCCESS] #62 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 105809.317|INFO|Thread-3|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #62 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 110136.859|CONFIG|Thread-3|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200520 110136.860|INFO|Thread-3|info|
+200520 110136.872|INFO|Thread-3|info|Version 9 () Java ver 14.0.1 build  Windows 10 10.0 (amd64) 
+200520 110136.872|INFO|Thread-3|info|Login: administrator1 (aka administrator1)
+200520 110136.873|INFO|Thread-3|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200520 110136.874|INFO|Thread-3|startLog|Process id is 11056@DESKTOP-PII08I3
+200520 110136.875|INFO|Thread-3|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 110137.120|INFO|Thread-3|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 110137.154|INFO|Thread-3|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200520 110137.154|INFO|Thread-3|info|handlePacket end Packet[LOGIN_SUCCESS] #67 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 110137.155|INFO|Thread-3|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #67 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 112845.312|CONFIG|Thread-2|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200520 112845.313|INFO|Thread-2|info|
+200520 112845.326|INFO|Thread-2|info|Version 9 () Java ver 14.0.1 build  Windows 10 10.0 (amd64) 
+200520 112845.326|INFO|Thread-2|info|Login: administrator1 (aka administrator1)
+200520 112845.327|INFO|Thread-2|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200520 112845.328|INFO|Thread-2|startLog|Process id is 14076@DESKTOP-PII08I3
+200520 112845.329|INFO|Thread-2|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 112925.290|INFO|Thread-2|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 112925.329|INFO|Thread-2|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200520 112925.329|INFO|Thread-2|info|handlePacket end Packet[LOGIN_SUCCESS] #72 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 112925.331|INFO|Thread-2|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #72 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 113018.096|CONFIG|Thread-3|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200520 113018.096|INFO|Thread-3|info|
+200520 113018.104|INFO|Thread-3|info|Version 9 () Java ver 14.0.1 build  Windows 10 10.0 (amd64) 
+200520 113018.105|INFO|Thread-3|info|Login: administrator1 (aka administrator1)
+200520 113018.105|INFO|Thread-3|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200520 113018.107|INFO|Thread-3|startLog|Process id is 848@DESKTOP-PII08I3
+200520 113018.108|INFO|Thread-3|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 113121.620|INFO|Thread-3|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 113324.207|INFO|Thread-3|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200520 113324.208|INFO|Thread-3|info|handlePacket end Packet[LOGIN_SUCCESS] #77 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 113324.208|INFO|Thread-3|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #77 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 120147.287|CONFIG|Thread-3|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200520 120147.288|INFO|Thread-3|info|
+200520 120147.305|INFO|Thread-3|info|Version 9 () Java ver 14.0.1 build  Windows 10 10.0 (amd64) 
+200520 120147.305|INFO|Thread-3|info|Login: administrator1 (aka administrator1)
+200520 120147.306|INFO|Thread-3|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200520 120147.307|INFO|Thread-3|startLog|Process id is 9472@DESKTOP-PII08I3
+200520 120147.309|INFO|Thread-3|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 120150.039|INFO|Thread-3|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 120151.207|INFO|Thread-3|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200520 120151.208|INFO|Thread-3|info|handlePacket end Packet[LOGIN_SUCCESS] #82 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 120151.208|INFO|Thread-3|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #82 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 120359.120|CONFIG|Thread-2|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200520 120359.120|INFO|Thread-2|info|
+200520 120359.132|INFO|Thread-2|info|Version 9 () Java ver 14.0.1 build  Windows 10 10.0 (amd64) 
+200520 120359.133|INFO|Thread-2|info|Login: administrator1 (aka administrator1)
+200520 120359.133|INFO|Thread-2|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200520 120359.135|INFO|Thread-2|startLog|Process id is 7156@DESKTOP-PII08I3
+200520 120359.136|INFO|Thread-2|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 120402.648|INFO|Thread-2|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 120402.694|INFO|Thread-2|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200520 120402.694|INFO|Thread-2|info|handlePacket end Packet[LOGIN_SUCCESS] #87 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 120402.696|INFO|Thread-2|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #87 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 121310.728|CONFIG|Thread-2|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200520 121310.729|INFO|Thread-2|info|
+200520 121310.744|INFO|Thread-2|info|Version 9 () Java ver 14.0.1 build  Windows 10 10.0 (amd64) 
+200520 121310.745|INFO|Thread-2|info|Login: administrator1 (aka administrator1)
+200520 121310.752|INFO|Thread-2|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200520 121310.753|INFO|Thread-2|startLog|Process id is 11520@DESKTOP-PII08I3
+200520 121310.755|INFO|Thread-2|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 121311.115|INFO|Thread-2|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 121311.166|INFO|Thread-2|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200520 121311.166|INFO|Thread-2|info|handlePacket end Packet[LOGIN_SUCCESS] #92 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 121311.167|INFO|Thread-2|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #92 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 121324.580|CONFIG|Thread-3|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200520 121324.581|INFO|Thread-3|info|
+200520 121324.595|INFO|Thread-3|info|Version 9 () Java ver 14.0.1 build  Windows 10 10.0 (amd64) 
+200520 121324.596|INFO|Thread-3|info|Login: administrator1 (aka administrator1)
+200520 121324.597|INFO|Thread-3|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200520 121324.598|INFO|Thread-3|startLog|Process id is 11428@DESKTOP-PII08I3
+200520 121324.600|INFO|Thread-3|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 121324.957|INFO|Thread-3|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 121454.752|INFO|Thread-3|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200520 121454.752|INFO|Thread-3|info|handlePacket end Packet[LOGIN_SUCCESS] #97 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 121454.753|INFO|Thread-3|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #97 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 123848.810|CONFIG|Thread-2|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200520 123848.810|INFO|Thread-2|info|
+200520 123848.824|INFO|Thread-2|info|Version 9 () Java ver 14.0.1 build  Windows 10 10.0 (amd64) 
+200520 123848.824|INFO|Thread-2|info|Login: administrator1 (aka administrator1)
+200520 123848.825|INFO|Thread-2|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200520 123848.826|INFO|Thread-2|startLog|Process id is 13104@DESKTOP-PII08I3
+200520 123848.828|INFO|Thread-2|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 123849.442|INFO|Thread-2|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 123849.507|INFO|Thread-2|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200520 123849.507|INFO|Thread-2|info|handlePacket end Packet[LOGIN_SUCCESS] #107 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 123849.508|INFO|Thread-2|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #107 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 123909.597|CONFIG|Thread-3|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200520 123909.598|INFO|Thread-3|info|
+200520 123909.611|INFO|Thread-3|info|Version 9 () Java ver 14.0.1 build  Windows 10 10.0 (amd64) 
+200520 123909.612|INFO|Thread-3|info|Login: administrator1 (aka administrator1)
+200520 123909.613|INFO|Thread-3|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200520 123909.613|INFO|Thread-3|startLog|Process id is 8284@DESKTOP-PII08I3
+200520 123909.615|INFO|Thread-3|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 123910.010|INFO|Thread-3|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 123928.525|INFO|Thread-3|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200520 123928.527|INFO|Thread-3|info|handlePacket end Packet[LOGIN_SUCCESS] #112 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 123928.528|INFO|Thread-3|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #112 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 124252.930|CONFIG|Thread-3|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200520 124252.931|INFO|Thread-3|info|
+200520 124252.948|INFO|Thread-3|info|Version 9 () Java ver 14.0.1 build  Windows 10 10.0 (amd64) 
+200520 124252.949|INFO|Thread-3|info|Login: administrator1 (aka administrator1)
+200520 124252.950|INFO|Thread-3|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200520 124252.952|INFO|Thread-3|startLog|Process id is 10408@DESKTOP-PII08I3
+200520 124252.954|INFO|Thread-3|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 124253.331|INFO|Thread-3|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 124253.383|INFO|Thread-3|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200520 124253.384|INFO|Thread-3|info|handlePacket end Packet[LOGIN_SUCCESS] #117 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 124253.384|INFO|Thread-3|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #117 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 124303.843|INFO|AWT-EventQueue-0|sendToLocalServer|Sending packet to server Packet[GENERATE_ACCOUNTS] #2 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+200520 124303.845|INFO|AWT-EventQueue-0|sendToLocalServer|Sent    packet to server Packet[GENERATE_ACCOUNTS] #2 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+200520 124303.868|INFO|Thread-5|info| receiveObject(S) start got Packet[ADD_SETTING] #119 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 124303.868|INFO|Thread-5|dumpPacket|Packet ADD_SETTING (Seq #119, o#119 ) recieveObject
+200520 124303.869|INFO|Thread-5|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-PII08I3 @ 192.168.42.152) (Contest Id: Default--733014880925450290)
+200520 124303.869|INFO|Thread-5|dumpPacket|    To: SERVER0 @ site 0
+200520 124303.870|INFO|Thread-5|dumpPacket|   key: ACCOUNT_ARRAY is: [Ledu.csus.ecs.pc2.core.model.Account; [Ledu.csus.ecs.pc2.core.model.Account;@288f47b7
+200520 124303.871|INFO|Thread-5|dumpPacket|   key: SITE_NUMBER is: java.lang.Integer 1
+200520 124303.873|INFO|Thread-5|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+200520 124303.873|INFO|Thread-5|info|handlePacket start Packet[ADD_SETTING] #119 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 124303.874|INFO|Thread-5|dumpPacket|Packet ADD_SETTING (Seq #119, o#119 ) handlePacket
+200520 124303.874|INFO|Thread-5|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-PII08I3 @ 192.168.42.152) (Contest Id: Default--733014880925450290)
+200520 124303.875|INFO|Thread-5|dumpPacket|    To: SERVER0 @ site 0
+200520 124303.876|INFO|Thread-5|dumpPacket|   key: ACCOUNT_ARRAY is: [Ledu.csus.ecs.pc2.core.model.Account; [Ledu.csus.ecs.pc2.core.model.Account;@288f47b7
+200520 124303.877|INFO|Thread-5|dumpPacket|   key: SITE_NUMBER is: java.lang.Integer 1
+200520 124303.877|INFO|Thread-5|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+200520 124303.898|INFO|Thread-5|info|handlePacket end Packet[ADD_SETTING] #119 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 124303.899|INFO|Thread-5|info| receiveObject(S) end   got Packet[ADD_SETTING] #119 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 124350.195|INFO|AWT-EventQueue-0|sendToLocalServer|Sending packet to server Packet[GENERATE_ACCOUNTS] #3 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+200520 124350.196|INFO|AWT-EventQueue-0|sendToLocalServer|Sent    packet to server Packet[GENERATE_ACCOUNTS] #3 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+200520 124350.219|INFO|Thread-7|info| receiveObject(S) start got Packet[ADD_SETTING] #120 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 124350.219|INFO|Thread-7|dumpPacket|Packet ADD_SETTING (Seq #120, o#120 ) recieveObject
+200520 124350.220|INFO|Thread-7|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-PII08I3 @ 192.168.42.152) (Contest Id: Default--733014880925450290)
+200520 124350.221|INFO|Thread-7|dumpPacket|    To: SERVER0 @ site 0
+200520 124350.222|INFO|Thread-7|dumpPacket|   key: ACCOUNT_ARRAY is: [Ledu.csus.ecs.pc2.core.model.Account; [Ledu.csus.ecs.pc2.core.model.Account;@46c1eac
+200520 124350.223|INFO|Thread-7|dumpPacket|   key: SITE_NUMBER is: java.lang.Integer 1
+200520 124350.224|INFO|Thread-7|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+200520 124350.225|INFO|Thread-7|info|handlePacket start Packet[ADD_SETTING] #120 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 124350.227|INFO|Thread-7|dumpPacket|Packet ADD_SETTING (Seq #120, o#120 ) handlePacket
+200520 124350.227|INFO|Thread-7|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-PII08I3 @ 192.168.42.152) (Contest Id: Default--733014880925450290)
+200520 124350.227|INFO|Thread-7|dumpPacket|    To: SERVER0 @ site 0
+200520 124350.228|INFO|Thread-7|dumpPacket|   key: ACCOUNT_ARRAY is: [Ledu.csus.ecs.pc2.core.model.Account; [Ledu.csus.ecs.pc2.core.model.Account;@46c1eac
+200520 124350.229|INFO|Thread-7|dumpPacket|   key: SITE_NUMBER is: java.lang.Integer 1
+200520 124350.230|INFO|Thread-7|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+200520 124350.251|INFO|Thread-7|info|handlePacket end Packet[ADD_SETTING] #120 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 124350.251|INFO|Thread-7|info| receiveObject(S) end   got Packet[ADD_SETTING] #120 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 124843.410|INFO|AWT-EventQueue-0|sendToLocalServer|Sending packet to server Packet[GENERATE_ACCOUNTS] #4 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+200520 124843.414|INFO|AWT-EventQueue-0|sendToLocalServer|Sent    packet to server Packet[GENERATE_ACCOUNTS] #4 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+200520 124843.480|INFO|Thread-9|info| receiveObject(S) start got Packet[ADD_SETTING] #121 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 124843.481|INFO|Thread-9|dumpPacket|Packet ADD_SETTING (Seq #121, o#121 ) recieveObject
+200520 124843.482|INFO|Thread-9|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-PII08I3 @ 192.168.42.152) (Contest Id: Default--733014880925450290)
+200520 124843.483|INFO|Thread-9|dumpPacket|    To: SERVER0 @ site 0
+200520 124843.483|INFO|Thread-9|dumpPacket|   key: ACCOUNT_ARRAY is: [Ledu.csus.ecs.pc2.core.model.Account; [Ledu.csus.ecs.pc2.core.model.Account;@3660f022
+200520 124843.484|INFO|Thread-9|dumpPacket|   key: SITE_NUMBER is: java.lang.Integer 1
+200520 124843.484|INFO|Thread-9|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+200520 124843.485|INFO|Thread-9|info|handlePacket start Packet[ADD_SETTING] #121 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 124843.485|INFO|Thread-9|dumpPacket|Packet ADD_SETTING (Seq #121, o#121 ) handlePacket
+200520 124843.485|INFO|Thread-9|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-PII08I3 @ 192.168.42.152) (Contest Id: Default--733014880925450290)
+200520 124843.486|INFO|Thread-9|dumpPacket|    To: SERVER0 @ site 0
+200520 124843.486|INFO|Thread-9|dumpPacket|   key: ACCOUNT_ARRAY is: [Ledu.csus.ecs.pc2.core.model.Account; [Ledu.csus.ecs.pc2.core.model.Account;@3660f022
+200520 124843.487|INFO|Thread-9|dumpPacket|   key: SITE_NUMBER is: java.lang.Integer 1
+200520 124843.487|INFO|Thread-9|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+200520 124843.509|INFO|Thread-9|info|handlePacket end Packet[ADD_SETTING] #121 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 124843.509|INFO|Thread-9|info| receiveObject(S) end   got Packet[ADD_SETTING] #121 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 125002.633|CONFIG|Thread-3|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200520 125002.634|INFO|Thread-3|info|
+200520 125002.654|INFO|Thread-3|info|Version 9 () Java ver 14.0.1 build  Windows 10 10.0 (amd64) 
+200520 125002.655|INFO|Thread-3|info|Login: administrator1 (aka administrator1)
+200520 125002.656|INFO|Thread-3|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200520 125002.658|INFO|Thread-3|startLog|Process id is 8356@DESKTOP-PII08I3
+200520 125002.660|INFO|Thread-3|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 125003.087|INFO|Thread-3|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 125003.156|INFO|Thread-3|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200520 125003.157|INFO|Thread-3|info|handlePacket end Packet[LOGIN_SUCCESS] #125 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 125003.157|INFO|Thread-3|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #125 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 125702.306|INFO|AWT-EventQueue-0|sendToLocalServer|Sending packet to server Packet[GENERATE_ACCOUNTS] #2 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+200520 125702.308|INFO|AWT-EventQueue-0|sendToLocalServer|Sent    packet to server Packet[GENERATE_ACCOUNTS] #2 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+200520 125702.344|INFO|Thread-5|info| receiveObject(S) start got Packet[ADD_SETTING] #127 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 125702.345|INFO|Thread-5|dumpPacket|Packet ADD_SETTING (Seq #127, o#127 ) recieveObject
+200520 125702.346|INFO|Thread-5|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-PII08I3 @ 192.168.42.152) (Contest Id: Default--733014880925450290)
+200520 125702.349|INFO|Thread-5|dumpPacket|    To: SERVER0 @ site 0
+200520 125702.350|INFO|Thread-5|dumpPacket|   key: ACCOUNT_ARRAY is: [Ledu.csus.ecs.pc2.core.model.Account; [Ledu.csus.ecs.pc2.core.model.Account;@2e8da390
+200520 125702.352|INFO|Thread-5|dumpPacket|   key: SITE_NUMBER is: java.lang.Integer 1
+200520 125702.353|INFO|Thread-5|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+200520 125702.355|INFO|Thread-5|info|handlePacket start Packet[ADD_SETTING] #127 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 125702.357|INFO|Thread-5|dumpPacket|Packet ADD_SETTING (Seq #127, o#127 ) handlePacket
+200520 125702.358|INFO|Thread-5|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-PII08I3 @ 192.168.42.152) (Contest Id: Default--733014880925450290)
+200520 125702.359|INFO|Thread-5|dumpPacket|    To: SERVER0 @ site 0
+200520 125702.360|INFO|Thread-5|dumpPacket|   key: ACCOUNT_ARRAY is: [Ledu.csus.ecs.pc2.core.model.Account; [Ledu.csus.ecs.pc2.core.model.Account;@2e8da390
+200520 125702.360|INFO|Thread-5|dumpPacket|   key: SITE_NUMBER is: java.lang.Integer 1
+200520 125702.360|INFO|Thread-5|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+200520 125702.384|INFO|Thread-5|info|handlePacket end Packet[ADD_SETTING] #127 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 125702.388|INFO|Thread-5|info| receiveObject(S) end   got Packet[ADD_SETTING] #127 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 130535.372|CONFIG|Thread-2|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200520 130535.372|INFO|Thread-2|info|
+200520 130535.380|INFO|Thread-3|info|handlePacket start Packet[LOGIN] #132 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 130535.381|INFO|Thread-3|dumpPacket|Packet LOGIN (Seq #132, o#132 ) handlePacket
+200520 130535.383|INFO|Thread-3|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-PII08I3 @ 192.168.42.152) (Contest Id: Default--733014880925450290)
+200520 130535.384|INFO|Thread-3|dumpPacket|    To: SERVER0 @ site 0
+200520 130535.385|INFO|Thread-3|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/127.0.0.1,port=57056,localport=50002]-4664413672670613147
+200520 130535.385|INFO|Thread-3|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId ADMINISTRATOR1 @ site 1
+200520 130535.385|INFO|Thread-3|dumpPacket|   key: CLIENT_SETTINGS is: edu.csus.ecs.pc2.core.model.ClientSettings edu.csus.ecs.pc2.core.model.ClientSettings@3cfcbbb5
+200520 130535.386|INFO|Thread-3|info|handlePacket end Packet[LOGIN] #132 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 130535.387|INFO|Thread-3|info| receiveObject(S) end   got Packet[LOGIN] #132 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 130535.387|INFO|Thread-2|info|Version 9 () Java ver 14.0.1 build  Windows 10 10.0 (amd64) 
+200520 130535.388|INFO|Thread-2|info|Login: administrator1 (aka administrator1)
+200520 130535.389|INFO|Thread-2|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200520 130535.390|INFO|Thread-2|startLog|Process id is 2484@DESKTOP-PII08I3
+200520 130535.402|INFO|Thread-2|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 130535.839|INFO|Thread-2|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 130535.881|INFO|Thread-2|sendToLocalServer|Sending packet to server Packet[GENERATE_ACCOUNTS] #2 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+200520 130535.881|INFO|Thread-2|sendToLocalServer|Sent    packet to server Packet[GENERATE_ACCOUNTS] #2 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+200520 130535.882|INFO|Thread-2|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200520 130535.882|INFO|Thread-2|info|handlePacket end Packet[LOGIN_SUCCESS] #131 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 130535.883|INFO|Thread-2|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #131 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 130535.961|INFO|Thread-5|info| receiveObject(S) start got Packet[ADD_SETTING] #133 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 130535.962|INFO|Thread-5|dumpPacket|Packet ADD_SETTING (Seq #133, o#133 ) recieveObject
+200520 130535.962|INFO|Thread-5|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-PII08I3 @ 192.168.42.152) (Contest Id: Default--733014880925450290)
+200520 130535.962|INFO|Thread-5|dumpPacket|    To: SERVER0 @ site 0
+200520 130535.963|INFO|Thread-5|dumpPacket|   key: ACCOUNT_ARRAY is: [Ledu.csus.ecs.pc2.core.model.Account; [Ledu.csus.ecs.pc2.core.model.Account;@7694ccc5
+200520 130535.963|INFO|Thread-5|dumpPacket|   key: SITE_NUMBER is: java.lang.Integer 1
+200520 130535.963|INFO|Thread-5|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+200520 130535.964|INFO|Thread-5|info|handlePacket start Packet[ADD_SETTING] #133 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 130535.964|INFO|Thread-5|dumpPacket|Packet ADD_SETTING (Seq #133, o#133 ) handlePacket
+200520 130535.965|INFO|Thread-5|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-PII08I3 @ 192.168.42.152) (Contest Id: Default--733014880925450290)
+200520 130535.965|INFO|Thread-5|dumpPacket|    To: SERVER0 @ site 0
+200520 130535.966|INFO|Thread-5|dumpPacket|   key: ACCOUNT_ARRAY is: [Ledu.csus.ecs.pc2.core.model.Account; [Ledu.csus.ecs.pc2.core.model.Account;@7694ccc5
+200520 130535.966|INFO|Thread-5|dumpPacket|   key: SITE_NUMBER is: java.lang.Integer 1
+200520 130535.967|INFO|Thread-5|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+200520 130535.967|INFO|Thread-5|info|handlePacket end Packet[ADD_SETTING] #133 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 130535.968|INFO|Thread-5|info| receiveObject(S) end   got Packet[ADD_SETTING] #133 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 130657.616|CONFIG|Thread-4|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200520 130657.617|INFO|Thread-4|info|
+200520 130657.649|INFO|Thread-4|info|Version 9 () Java ver 14.0.1 build  Windows 10 10.0 (amd64) 
+200520 130657.649|INFO|Thread-4|info|Login: administrator1 (aka administrator1)
+200520 130657.650|INFO|Thread-4|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200520 130657.651|INFO|Thread-4|startLog|Process id is 3068@DESKTOP-PII08I3
+200520 130657.654|INFO|Thread-4|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 130658.026|INFO|Thread-4|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 130658.445|INFO|Thread-4|sendToLocalServer|Sending packet to server Packet[GENERATE_ACCOUNTS] #2 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+200520 130658.447|INFO|Thread-4|sendToLocalServer|Sent    packet to server Packet[GENERATE_ACCOUNTS] #2 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+200520 130658.449|INFO|Thread-4|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200520 130658.452|INFO|Thread-4|info|handlePacket end Packet[LOGIN_SUCCESS] #137 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 130658.454|INFO|Thread-4|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #137 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 130658.608|INFO|Thread-7|info| receiveObject(S) start got Packet[ADD_SETTING] #139 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 130658.609|INFO|Thread-7|dumpPacket|Packet ADD_SETTING (Seq #139, o#139 ) recieveObject
+200520 130658.609|INFO|Thread-7|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-PII08I3 @ 192.168.42.152) (Contest Id: Default--733014880925450290)
+200520 130658.609|INFO|Thread-7|dumpPacket|    To: SERVER0 @ site 0
+200520 130658.610|INFO|Thread-7|dumpPacket|   key: ACCOUNT_ARRAY is: [Ledu.csus.ecs.pc2.core.model.Account; [Ledu.csus.ecs.pc2.core.model.Account;@1a31af1a
+200520 130658.610|INFO|Thread-7|dumpPacket|   key: SITE_NUMBER is: java.lang.Integer 1
+200520 130658.611|INFO|Thread-7|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+200520 130658.611|INFO|Thread-7|info|handlePacket start Packet[ADD_SETTING] #139 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 130658.612|INFO|Thread-7|dumpPacket|Packet ADD_SETTING (Seq #139, o#139 ) handlePacket
+200520 130658.612|INFO|Thread-7|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-PII08I3 @ 192.168.42.152) (Contest Id: Default--733014880925450290)
+200520 130658.612|INFO|Thread-7|dumpPacket|    To: SERVER0 @ site 0
+200520 130658.613|INFO|Thread-7|dumpPacket|   key: ACCOUNT_ARRAY is: [Ledu.csus.ecs.pc2.core.model.Account; [Ledu.csus.ecs.pc2.core.model.Account;@1a31af1a
+200520 130658.613|INFO|Thread-7|dumpPacket|   key: SITE_NUMBER is: java.lang.Integer 1
+200520 130658.614|INFO|Thread-7|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+200520 130658.614|INFO|Thread-7|info|handlePacket end Packet[ADD_SETTING] #139 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 130658.615|INFO|Thread-7|info| receiveObject(S) end   got Packet[ADD_SETTING] #139 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 130724.057|CONFIG|Thread-2|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200520 130724.058|INFO|Thread-2|info|
+200520 130724.072|INFO|Thread-2|info|Version 9 () Java ver 14.0.1 build  Windows 10 10.0 (amd64) 
+200520 130724.072|INFO|Thread-2|info|Login: administrator1 (aka administrator1)
+200520 130724.073|INFO|Thread-2|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200520 130724.074|INFO|Thread-2|startLog|Process id is 6964@DESKTOP-PII08I3
+200520 130724.076|INFO|Thread-2|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 130724.493|INFO|Thread-2|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 131639.745|INFO|Thread-2|sendToLocalServer|Sending packet to server Packet[GENERATE_ACCOUNTS] #2 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+200520 131639.747|INFO|Thread-2|sendToLocalServer|Sent    packet to server Packet[GENERATE_ACCOUNTS] #2 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+200520 131639.747|INFO|Thread-2|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200520 131639.748|INFO|Thread-2|info|handlePacket end Packet[LOGIN_SUCCESS] #143 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 131639.748|INFO|Thread-2|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #143 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 131639.889|INFO|Thread-5|info| receiveObject(S) start got Packet[ADD_SETTING] #145 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 131639.889|INFO|Thread-5|dumpPacket|Packet ADD_SETTING (Seq #145, o#145 ) recieveObject
+200520 131639.890|INFO|Thread-5|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-PII08I3 @ 192.168.42.152) (Contest Id: Default--733014880925450290)
+200520 131639.890|INFO|Thread-5|dumpPacket|    To: SERVER0 @ site 0
+200520 131639.891|INFO|Thread-5|dumpPacket|   key: ACCOUNT_ARRAY is: [Ledu.csus.ecs.pc2.core.model.Account; [Ledu.csus.ecs.pc2.core.model.Account;@4a73f9d1
+200520 131639.891|INFO|Thread-5|dumpPacket|   key: SITE_NUMBER is: java.lang.Integer 1
+200520 131639.891|INFO|Thread-5|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+200520 131639.892|INFO|Thread-5|info|handlePacket start Packet[ADD_SETTING] #145 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 131639.892|INFO|Thread-5|dumpPacket|Packet ADD_SETTING (Seq #145, o#145 ) handlePacket
+200520 131639.893|INFO|Thread-5|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-PII08I3 @ 192.168.42.152) (Contest Id: Default--733014880925450290)
+200520 131639.893|INFO|Thread-5|dumpPacket|    To: SERVER0 @ site 0
+200520 131639.894|INFO|Thread-5|dumpPacket|   key: ACCOUNT_ARRAY is: [Ledu.csus.ecs.pc2.core.model.Account; [Ledu.csus.ecs.pc2.core.model.Account;@4a73f9d1
+200520 131639.894|INFO|Thread-5|dumpPacket|   key: SITE_NUMBER is: java.lang.Integer 1
+200520 131639.894|INFO|Thread-5|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+200520 131639.895|INFO|Thread-5|info|handlePacket end Packet[ADD_SETTING] #145 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 131639.896|INFO|Thread-5|info| receiveObject(S) end   got Packet[ADD_SETTING] #145 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 223615.185|CONFIG|Thread-6|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200520 223615.186|INFO|Thread-6|info|
+200520 223615.274|INFO|Thread-6|info|Version 9 () Java ver 1.8.0_141 build  Windows 10 10.0 (amd64) 
+200520 223615.274|INFO|Thread-6|info|Login: administrator1 (aka administrator1)
+200520 223615.274|INFO|Thread-6|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200520 223615.275|INFO|Thread-6|startLog|Process id is 4264@DESKTOP-PII08I3
+200520 223615.277|INFO|Thread-6|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 223615.644|WARNING|Thread-6|loadUIClass|Unable to load UI, class = edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 223615.644|SEVERE|Thread-6|fatalError|Error loading UI, check log, (class not found?)  Class not loaded edu.csus.ecs.pc2.ui.admin.AdministratorView
+|java.lang.Exception: Class not loaded edu.csus.ecs.pc2.ui.admin.AdministratorView
+|    at edu.csus.ecs.pc2.core.InternalController.startMainUI (InternalController.java:2558)
+|    at edu.csus.ecs.pc2.core.PacketHandler.otherLoginActivities (PacketHandler.java:3742)
+|    at edu.csus.ecs.pc2.core.PacketHandler.loginSuccess (PacketHandler.java:2093)
+|    at edu.csus.ecs.pc2.core.PacketHandler.handleOtherPacketTypes (PacketHandler.java:369)
+|    at edu.csus.ecs.pc2.core.PacketHandler.handlePacket (PacketHandler.java:266)
+|    at edu.csus.ecs.pc2.core.InternalController.receiveObject (InternalController.java:2232)
+|    at edu.csus.ecs.pc2.core.transport.TransportManager$2.run (TransportManager.java:342)
+|    at java.lang.Thread.run (Thread.java:748)
+200520 223615.645|INFO|Thread-6|fatalError|PC^2 halted
+200520 223731.821|CONFIG|Thread-5|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200520 223731.823|INFO|Thread-5|info|
+200520 223731.998|INFO|Thread-5|info|Version 9 () Java ver 1.8.0_141 build  Windows 10 10.0 (amd64) 
+200520 223731.999|INFO|Thread-5|info|Login: administrator1 (aka administrator1)
+200520 223732.002|INFO|Thread-5|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200520 223732.004|INFO|Thread-5|startLog|Process id is 8716@DESKTOP-PII08I3
+200520 223805.469|INFO|Thread-5|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 223806.012|WARNING|Thread-5|loadUIClass|Unable to load UI, class = edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 223809.265|SEVERE|Thread-5|fatalError|Error loading UI, check log, (class not found?)  Class not loaded edu.csus.ecs.pc2.ui.admin.AdministratorView
+|java.lang.Exception: Class not loaded edu.csus.ecs.pc2.ui.admin.AdministratorView
+|    at edu.csus.ecs.pc2.core.InternalController.startMainUI (InternalController.java:2558)
+|    at edu.csus.ecs.pc2.core.PacketHandler.otherLoginActivities (PacketHandler.java:3742)
+|    at edu.csus.ecs.pc2.core.PacketHandler.loginSuccess (PacketHandler.java:2093)
+|    at edu.csus.ecs.pc2.core.PacketHandler.handleOtherPacketTypes (PacketHandler.java:369)
+|    at edu.csus.ecs.pc2.core.PacketHandler.handlePacket (PacketHandler.java:266)
+|    at edu.csus.ecs.pc2.core.InternalController.receiveObject (InternalController.java:2232)
+|    at edu.csus.ecs.pc2.core.transport.TransportManager$2.run (TransportManager.java:342)
+|    at java.lang.Thread.run (Thread.java:748)
+200520 223809.267|INFO|Thread-5|fatalError|PC^2 halted
+200520 223846.234|CONFIG|Thread-4|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200520 223846.235|INFO|Thread-4|info|
+200520 223846.270|INFO|Thread-4|info|Version 9 () Java ver 1.8.0_141 build  Windows 10 10.0 (amd64) 
+200520 223846.271|INFO|Thread-4|info|Login: administrator1 (aka administrator1)
+200520 223846.271|INFO|Thread-4|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200520 223846.271|INFO|Thread-4|startLog|Process id is 13904@DESKTOP-PII08I3
+200520 223846.273|INFO|Thread-4|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 223848.819|INFO|Thread-4|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 223848.869|INFO|Thread-4|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200520 223848.869|INFO|Thread-4|info|handlePacket end Packet[LOGIN_SUCCESS] #12 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 223848.869|INFO|Thread-4|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #12 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 224335.969|CONFIG|Thread-4|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200520 224335.970|INFO|Thread-4|info|
+200520 224336.010|INFO|Thread-4|info|Version 9 () Java ver 1.8.0_141 build  Windows 10 10.0 (amd64) 
+200520 224336.010|INFO|Thread-4|info|Login: administrator1 (aka administrator1)
+200520 224336.010|INFO|Thread-4|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200520 224336.010|INFO|Thread-4|startLog|Process id is 13936@DESKTOP-PII08I3
+200520 224336.012|INFO|Thread-4|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 224336.207|INFO|Thread-4|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 224342.515|SEVERE|Thread-4|fatalError|Error loading UI, check log, (class not found?)  args is null
+|java.lang.IllegalArgumentException: args is null
+|    at edu.csus.ecs.pc2.core.ParseArguments.loadArgs (ParseArguments.java:308)
+|    at edu.csus.ecs.pc2.core.ParseArguments.<init> (ParseArguments.java:484)
+|    at edu.csus.ecs.pc2.core.InternalController.start (InternalController.java:2734)
+|    at edu.csus.ecs.pc2.Starter.main (Starter.java:37)
+|    at ru.vkr.vkr.VkrApplication.main (VkrApplication.java:12)
+|    at edu.csus.ecs.pc2.core.InternalController.startMainUI (InternalController.java:2570)
+|    at edu.csus.ecs.pc2.core.PacketHandler.otherLoginActivities (PacketHandler.java:3742)
+|    at edu.csus.ecs.pc2.core.PacketHandler.loginSuccess (PacketHandler.java:2093)
+|    at edu.csus.ecs.pc2.core.PacketHandler.handleOtherPacketTypes (PacketHandler.java:369)
+|    at edu.csus.ecs.pc2.core.PacketHandler.handlePacket (PacketHandler.java:266)
+|    at edu.csus.ecs.pc2.core.InternalController.receiveObject (InternalController.java:2233)
+|    at edu.csus.ecs.pc2.core.transport.TransportManager$2.run (TransportManager.java:342)
+|    at java.lang.Thread.run (Thread.java:748)
+200520 224342.519|INFO|Thread-4|fatalError|PC^2 halted
+200520 224453.954|CONFIG|Thread-4|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200520 224453.955|INFO|Thread-4|info|
+200520 224454.000|INFO|Thread-4|info|Version 9 () Java ver 1.8.0_141 build  Windows 10 10.0 (amd64) 
+200520 224454.000|INFO|Thread-4|info|Login: administrator1 (aka administrator1)
+200520 224454.000|INFO|Thread-4|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200520 224454.001|INFO|Thread-4|startLog|Process id is 6568@DESKTOP-PII08I3
+200520 224454.002|INFO|Thread-4|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 224454.210|INFO|Thread-4|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 224456.777|INFO|Thread-7|info| receiveObject(S) start got Packet[ESTABLISHED_CONNECTION] #24 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 224456.779|INFO|Thread-7|dumpPacket|Packet ESTABLISHED_CONNECTION (Seq #24, o#24 ) recieveObject
+200520 224456.779|INFO|Thread-7|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-PII08I3 @ 192.168.42.152) (Contest Id: Default--733014880925450290)
+200520 224456.779|INFO|Thread-7|dumpPacket|    To: SERVER0 @ site 0
+200520 224456.779|INFO|Thread-7|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/127.0.0.1,port=59673,localport=50002]--19244200955639423
+200520 224456.780|INFO|Thread-7|info|handlePacket start Packet[ESTABLISHED_CONNECTION] #24 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 224456.780|INFO|Thread-7|dumpPacket|Packet ESTABLISHED_CONNECTION (Seq #24, o#24 ) handlePacket
+200520 224456.780|INFO|Thread-7|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-PII08I3 @ 192.168.42.152) (Contest Id: Default--733014880925450290)
+200520 224456.780|INFO|Thread-7|dumpPacket|    To: SERVER0 @ site 0
+200520 224456.780|INFO|Thread-7|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/127.0.0.1,port=59673,localport=50002]--19244200955639423
+200520 224456.780|INFO|Thread-7|info| receiveObject(S) end   got Packet[ESTABLISHED_CONNECTION] #24 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 224504.271|INFO|Thread-1|info|connectionDropped: shutting down ADMINISTRATOR1 @ site 1
+200520 224539.074|CONFIG|Thread-4|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200520 224539.074|INFO|Thread-4|info|
+200520 224539.395|INFO|Thread-4|info|Version 9 () Java ver 1.8.0_141 build  Windows 10 10.0 (amd64) 
+200520 224539.397|INFO|Thread-4|info|Login: administrator1 (aka administrator1)
+200520 224539.397|INFO|Thread-4|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200520 224539.397|INFO|Thread-4|startLog|Process id is 8160@DESKTOP-PII08I3
+200520 224539.401|INFO|Thread-4|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 224542.884|INFO|Thread-4|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 224617.345|SEVERE|Thread-4|fatalError|Error loading UI, check log, (class not found?)  Error creating bean with name 'adminController': Unsatisfied dependency expressed through field 'internalController'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'edu.csus.ecs.pc2.core.InternalController' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+|org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'adminController': Unsatisfied dependency expressed through field 'internalController'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'edu.csus.ecs.pc2.core.InternalController' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+|    at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject (AutowiredAnnotationBeanPostProcessor.java:643)
+|    at org.springframework.beans.factory.annotation.InjectionMetadata.inject (InjectionMetadata.java:130)
+|    at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties (AutowiredAnnotationBeanPostProcessor.java:399)
+|    at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean (AbstractAutowireCapableBeanFactory.java:1422)
+|    at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean (AbstractAutowireCapableBeanFactory.java:594)
+|    at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean (AbstractAutowireCapableBeanFactory.java:517)
+|    at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0 (AbstractBeanFactory.java:323)
+|    at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton (DefaultSingletonBeanRegistry.java:222)
+|    at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean (AbstractBeanFactory.java:321)
+|    at org.springframework.beans.factory.support.AbstractBeanFactory.getBean (AbstractBeanFactory.java:202)
+|    at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons (DefaultListableBeanFactory.java:882)
+|    at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization (AbstractApplicationContext.java:878)
+|    at org.springframework.context.support.AbstractApplicationContext.refresh (AbstractApplicationContext.java:550)
+|    at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh (ServletWebServerApplicationContext.java:141)
+|    at org.springframework.boot.SpringApplication.refresh (SpringApplication.java:747)
+|    at org.springframework.boot.SpringApplication.refreshContext (SpringApplication.java:397)
+|    at org.springframework.boot.SpringApplication.run (SpringApplication.java:315)
+|    at org.springframework.boot.SpringApplication.run (SpringApplication.java:1226)
+|    at org.springframework.boot.SpringApplication.run (SpringApplication.java:1215)
+|    at ru.vkr.vkr.VkrApplication.main (VkrApplication.java:12)
+|    at edu.csus.ecs.pc2.core.InternalController.startMainUI (InternalController.java:2571)
+|    at edu.csus.ecs.pc2.core.PacketHandler.otherLoginActivities (PacketHandler.java:3742)
+|    at edu.csus.ecs.pc2.core.PacketHandler.loginSuccess (PacketHandler.java:2093)
+|    at edu.csus.ecs.pc2.core.PacketHandler.handleOtherPacketTypes (PacketHandler.java:369)
+|    at edu.csus.ecs.pc2.core.PacketHandler.handlePacket (PacketHandler.java:266)
+|    at edu.csus.ecs.pc2.core.InternalController.receiveObject (InternalController.java:2233)
+|    at edu.csus.ecs.pc2.core.transport.TransportManager$2.run (TransportManager.java:342)
+|    at java.lang.Thread.run (Thread.java:748)
+200520 224617.346|INFO|Thread-4|fatalError|PC^2 halted
+200520 230313.904|CONFIG|Thread-61|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200520 230313.904|INFO|Thread-61|info|
+200520 230313.935|INFO|Thread-61|info|Version 9 () Java ver 1.8.0_141 build  Windows 10 10.0 (amd64) 
+200520 230313.936|INFO|Thread-61|info|Login: administrator1 (aka administrator1)
+200520 230313.936|INFO|Thread-61|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200520 230313.936|INFO|Thread-61|startLog|Process id is 1620@DESKTOP-PII08I3
+200520 230313.938|INFO|Thread-61|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 230313.990|WARNING|Thread-61|loadUIClass|Unable to load UI, class = edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 230313.990|SEVERE|Thread-61|fatalError|Error loading UI, check log, (class not found?)  Class not loaded edu.csus.ecs.pc2.ui.admin.AdministratorView
+|java.lang.Exception: Class not loaded edu.csus.ecs.pc2.ui.admin.AdministratorView
+|    at edu.csus.ecs.pc2.core.InternalController.startMainUI (InternalController.java:2559)
+|    at edu.csus.ecs.pc2.core.PacketHandler.otherLoginActivities (PacketHandler.java:3742)
+|    at edu.csus.ecs.pc2.core.PacketHandler.loginSuccess (PacketHandler.java:2093)
+|    at edu.csus.ecs.pc2.core.PacketHandler.handleOtherPacketTypes (PacketHandler.java:369)
+|    at edu.csus.ecs.pc2.core.PacketHandler.handlePacket (PacketHandler.java:266)
+|    at edu.csus.ecs.pc2.core.InternalController.receiveObject (InternalController.java:2233)
+|    at edu.csus.ecs.pc2.core.transport.TransportManager$2.run (TransportManager.java:342)
+|    at java.lang.Thread.run (Thread.java:748)
+200520 230313.991|INFO|Thread-61|fatalError|PC^2 halted
+200520 230458.611|CONFIG|Thread-5|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200520 230458.611|INFO|Thread-5|info|
+200520 230458.630|INFO|Thread-5|info|Version 9 () Java ver 1.8.0_141 build  Windows 10 10.0 (amd64) 
+200520 230458.630|INFO|Thread-5|info|Login: administrator1 (aka administrator1)
+200520 230458.630|INFO|Thread-5|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200520 230458.631|INFO|Thread-5|startLog|Process id is 11756@DESKTOP-PII08I3
+200520 230458.633|INFO|Thread-5|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 230458.789|INFO|Thread-5|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 230458.795|INFO|Thread-5|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200520 230458.796|INFO|Thread-5|info|handlePacket end Packet[LOGIN_SUCCESS] #47 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 230458.796|INFO|Thread-5|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #47 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 230747.104|CONFIG|Thread-77|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200520 230747.104|INFO|Thread-77|info|
+200520 230747.125|INFO|Thread-77|info|Version 9 () Java ver 1.8.0_141 build  Windows 10 10.0 (amd64) 
+200520 230747.125|INFO|Thread-77|info|Login: administrator1 (aka administrator1)
+200520 230747.125|INFO|Thread-77|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200520 230747.125|INFO|Thread-77|startLog|Process id is 13468@DESKTOP-PII08I3
+200520 230747.127|INFO|Thread-77|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 230747.187|WARNING|Thread-77|loadUIClass|Unable to load UI, class = edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 230747.188|SEVERE|Thread-77|fatalError|Error loading UI, check log, (class not found?)  Class not loaded edu.csus.ecs.pc2.ui.admin.AdministratorView
+|java.lang.Exception: Class not loaded edu.csus.ecs.pc2.ui.admin.AdministratorView
+|    at edu.csus.ecs.pc2.core.InternalController.startMainUI (InternalController.java:2559)
+|    at edu.csus.ecs.pc2.core.PacketHandler.otherLoginActivities (PacketHandler.java:3742)
+|    at edu.csus.ecs.pc2.core.PacketHandler.loginSuccess (PacketHandler.java:2093)
+|    at edu.csus.ecs.pc2.core.PacketHandler.handleOtherPacketTypes (PacketHandler.java:369)
+|    at edu.csus.ecs.pc2.core.PacketHandler.handlePacket (PacketHandler.java:266)
+|    at edu.csus.ecs.pc2.core.InternalController.receiveObject (InternalController.java:2233)
+|    at edu.csus.ecs.pc2.core.transport.TransportManager$2.run (TransportManager.java:342)
+|    at java.lang.Thread.run (Thread.java:748)
+200520 230747.189|INFO|Thread-77|fatalError|PC^2 halted
+200520 230958.442|CONFIG|Thread-57|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200520 230958.442|INFO|Thread-57|info|
+200520 230958.461|INFO|Thread-57|info|Version 9 () Java ver 1.8.0_141 build  Windows 10 10.0 (amd64) 
+200520 230958.461|INFO|Thread-57|info|Login: administrator1 (aka administrator1)
+200520 230958.461|INFO|Thread-57|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200520 230958.462|INFO|Thread-57|startLog|Process id is 11552@DESKTOP-PII08I3
+200520 230958.463|INFO|Thread-57|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 230958.528|WARNING|Thread-57|loadUIClass|Unable to load UI, class = edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 230958.528|SEVERE|Thread-57|fatalError|Error loading UI, check log, (class not found?)  Class not loaded edu.csus.ecs.pc2.ui.admin.AdministratorView
+|java.lang.Exception: Class not loaded edu.csus.ecs.pc2.ui.admin.AdministratorView
+|    at edu.csus.ecs.pc2.core.InternalController.startMainUI (InternalController.java:2559)
+|    at edu.csus.ecs.pc2.core.PacketHandler.otherLoginActivities (PacketHandler.java:3742)
+|    at edu.csus.ecs.pc2.core.PacketHandler.loginSuccess (PacketHandler.java:2093)
+|    at edu.csus.ecs.pc2.core.PacketHandler.handleOtherPacketTypes (PacketHandler.java:369)
+|    at edu.csus.ecs.pc2.core.PacketHandler.handlePacket (PacketHandler.java:266)
+|    at edu.csus.ecs.pc2.core.InternalController.receiveObject (InternalController.java:2233)
+|    at edu.csus.ecs.pc2.core.transport.TransportManager$2.run (TransportManager.java:342)
+|    at java.lang.Thread.run (Thread.java:748)
+200520 230958.529|INFO|Thread-57|fatalError|PC^2 halted
+200520 231238.802|CONFIG|Thread-66|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200520 231238.803|INFO|Thread-66|info|
+200520 231238.884|INFO|Thread-66|info|Version 9 () Java ver 1.8.0_141 build  Windows 10 10.0 (amd64) 
+200520 231238.884|INFO|Thread-66|info|Login: administrator1 (aka administrator1)
+200520 231238.884|INFO|Thread-66|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200520 231238.885|INFO|Thread-66|startLog|Process id is 12460@DESKTOP-PII08I3
+200520 231238.889|INFO|Thread-66|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 231238.975|WARNING|Thread-66|loadUIClass|Unable to load UI, class = edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 231238.975|SEVERE|Thread-66|fatalError|Error loading UI, check log, (class not found?)  Class not loaded edu.csus.ecs.pc2.ui.admin.AdministratorView
+|java.lang.Exception: Class not loaded edu.csus.ecs.pc2.ui.admin.AdministratorView
+|    at edu.csus.ecs.pc2.core.InternalController.startMainUI (InternalController.java:2559)
+|    at edu.csus.ecs.pc2.core.PacketHandler.otherLoginActivities (PacketHandler.java:3742)
+|    at edu.csus.ecs.pc2.core.PacketHandler.loginSuccess (PacketHandler.java:2093)
+|    at edu.csus.ecs.pc2.core.PacketHandler.handleOtherPacketTypes (PacketHandler.java:369)
+|    at edu.csus.ecs.pc2.core.PacketHandler.handlePacket (PacketHandler.java:266)
+|    at edu.csus.ecs.pc2.core.InternalController.receiveObject (InternalController.java:2233)
+|    at edu.csus.ecs.pc2.core.transport.TransportManager$2.run (TransportManager.java:342)
+|    at java.lang.Thread.run (Thread.java:748)
+200520 231238.975|INFO|Thread-66|fatalError|PC^2 halted
+200520 232606.820|CONFIG|Thread-68|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200520 232606.820|INFO|Thread-68|info|
+200520 232606.848|INFO|Thread-68|info|Version 9 () Java ver 1.8.0_141 build  Windows 10 10.0 (amd64) 
+200520 232606.848|INFO|Thread-68|info|Login: administrator1 (aka administrator1)
+200520 232606.848|INFO|Thread-68|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200520 232606.849|INFO|Thread-68|startLog|Process id is 10656@DESKTOP-PII08I3
+200520 232606.851|INFO|Thread-68|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 232606.929|WARNING|Thread-68|loadUIClass|Unable to load UI, class = edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 232606.930|SEVERE|Thread-68|fatalError|Error loading UI, check log, (class not found?)  Class not loaded edu.csus.ecs.pc2.ui.admin.AdministratorView
+|java.lang.Exception: Class not loaded edu.csus.ecs.pc2.ui.admin.AdministratorView
+|    at edu.csus.ecs.pc2.core.InternalController.startMainUI (InternalController.java:2559)
+|    at edu.csus.ecs.pc2.core.PacketHandler.otherLoginActivities (PacketHandler.java:3742)
+|    at edu.csus.ecs.pc2.core.PacketHandler.loginSuccess (PacketHandler.java:2093)
+|    at edu.csus.ecs.pc2.core.PacketHandler.handleOtherPacketTypes (PacketHandler.java:369)
+|    at edu.csus.ecs.pc2.core.PacketHandler.handlePacket (PacketHandler.java:266)
+|    at edu.csus.ecs.pc2.core.InternalController.receiveObject (InternalController.java:2233)
+|    at edu.csus.ecs.pc2.core.transport.TransportManager$2.run (TransportManager.java:342)
+|    at java.lang.Thread.run (Thread.java:748)
+200520 232606.930|INFO|Thread-68|fatalError|PC^2 halted
+200521 081557.792|CONFIG|Thread-19|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200521 081557.807|INFO|Thread-19|info|
+200521 081557.823|INFO|Thread-19|info|Version 9 () Java ver 1.8.0_141 build  Windows 10 10.0 (amd64) 
+200521 081557.823|INFO|Thread-19|info|Login: administrator1 (aka administrator1)
+200521 081557.823|INFO|Thread-19|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200521 081557.839|INFO|Thread-19|startLog|Process id is 2504@DESKTOP-PII08I3
+200521 081557.839|INFO|Thread-19|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200521 081600.700|INFO|Thread-19|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200521 081604.505|INFO|Thread-19|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200521 081604.507|INFO|Thread-19|info|handlePacket end Packet[LOGIN_SUCCESS] #2 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200521 081604.511|INFO|Thread-19|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #2 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200521 081853.165|CONFIG|Thread-62|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200521 081853.165|INFO|Thread-62|info|
+200521 081853.217|INFO|Thread-62|info|Version 9 () Java ver 1.8.0_141 build  Windows 10 10.0 (amd64) 
+200521 081853.222|INFO|Thread-62|info|Login: administrator1 (aka administrator1)
+200521 081853.222|INFO|Thread-62|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200521 081853.226|INFO|Thread-62|startLog|Process id is 9108@DESKTOP-PII08I3
+200521 081853.230|INFO|Thread-62|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200521 081853.322|WARNING|Thread-62|loadUIClass|Unable to load UI, class = edu.csus.ecs.pc2.ui.admin.AdministratorView
+200521 081853.323|SEVERE|Thread-62|fatalError|Error loading UI, check log, (class not found?)  Class not loaded edu.csus.ecs.pc2.ui.admin.AdministratorView
+|java.lang.Exception: Class not loaded edu.csus.ecs.pc2.ui.admin.AdministratorView
+|    at edu.csus.ecs.pc2.core.InternalController.startMainUI (InternalController.java:2559)
+|    at edu.csus.ecs.pc2.core.PacketHandler.otherLoginActivities (PacketHandler.java:3742)
+|    at edu.csus.ecs.pc2.core.PacketHandler.loginSuccess (PacketHandler.java:2093)
+|    at edu.csus.ecs.pc2.core.PacketHandler.handleOtherPacketTypes (PacketHandler.java:369)
+|    at edu.csus.ecs.pc2.core.PacketHandler.handlePacket (PacketHandler.java:266)
+|    at edu.csus.ecs.pc2.core.InternalController.receiveObject (InternalController.java:2233)
+|    at edu.csus.ecs.pc2.core.transport.TransportManager$2.run (TransportManager.java:342)
+|    at java.lang.Thread.run (Thread.java:748)
+200521 081853.323|INFO|Thread-62|fatalError|PC^2 halted
+200521 082057.766|CONFIG|Thread-62|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200521 082057.766|INFO|Thread-62|info|
+200521 082057.784|INFO|Thread-62|info|Version 9 () Java ver 1.8.0_141 build  Windows 10 10.0 (amd64) 
+200521 082057.784|INFO|Thread-62|info|Login: administrator1 (aka administrator1)
+200521 082057.785|INFO|Thread-62|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200521 082057.785|INFO|Thread-62|startLog|Process id is 14196@DESKTOP-PII08I3
+200521 082057.787|INFO|Thread-62|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200521 082057.836|WARNING|Thread-62|loadUIClass|Unable to load UI, class = edu.csus.ecs.pc2.ui.admin.AdministratorView
+200521 082057.836|SEVERE|Thread-62|fatalError|Error loading UI, check log, (class not found?)  Class not loaded edu.csus.ecs.pc2.ui.admin.AdministratorView
+|java.lang.Exception: Class not loaded edu.csus.ecs.pc2.ui.admin.AdministratorView
+|    at edu.csus.ecs.pc2.core.InternalController.startMainUI (InternalController.java:2559)
+|    at edu.csus.ecs.pc2.core.PacketHandler.otherLoginActivities (PacketHandler.java:3742)
+|    at edu.csus.ecs.pc2.core.PacketHandler.loginSuccess (PacketHandler.java:2093)
+|    at edu.csus.ecs.pc2.core.PacketHandler.handleOtherPacketTypes (PacketHandler.java:369)
+|    at edu.csus.ecs.pc2.core.PacketHandler.handlePacket (PacketHandler.java:266)
+|    at edu.csus.ecs.pc2.core.InternalController.receiveObject (InternalController.java:2233)
+|    at edu.csus.ecs.pc2.core.transport.TransportManager$2.run (TransportManager.java:342)
+|    at java.lang.Thread.run (Thread.java:748)
+200521 082057.836|INFO|Thread-62|fatalError|PC^2 halted
+200521 082256.788|CONFIG|Thread-57|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200521 082256.788|INFO|Thread-57|info|
+200521 082256.819|INFO|Thread-57|info|Version 9 () Java ver 1.8.0_141 build  Windows 10 10.0 (amd64) 
+200521 082256.835|INFO|Thread-57|info|Login: administrator1 (aka administrator1)
+200521 082256.835|INFO|Thread-57|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200521 082256.835|INFO|Thread-57|startLog|Process id is 7740@DESKTOP-PII08I3
+200521 082315.770|INFO|Thread-57|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200521 082317.151|WARNING|Thread-57|loadUIClass|Unable to load UI, class = edu.csus.ecs.pc2.ui.admin.AdministratorView
+200521 082445.777|SEVERE|Thread-57|fatalError|Error loading UI, check log, (class not found?)  Class not loaded edu.csus.ecs.pc2.ui.admin.AdministratorView
+|java.lang.Exception: Class not loaded edu.csus.ecs.pc2.ui.admin.AdministratorView
+|    at edu.csus.ecs.pc2.core.InternalController.startMainUI (InternalController.java:2559)
+|    at edu.csus.ecs.pc2.core.PacketHandler.otherLoginActivities (PacketHandler.java:3742)
+|    at edu.csus.ecs.pc2.core.PacketHandler.loginSuccess (PacketHandler.java:2093)
+|    at edu.csus.ecs.pc2.core.PacketHandler.handleOtherPacketTypes (PacketHandler.java:369)
+|    at edu.csus.ecs.pc2.core.PacketHandler.handlePacket (PacketHandler.java:266)
+|    at edu.csus.ecs.pc2.core.InternalController.receiveObject (InternalController.java:2233)
+|    at edu.csus.ecs.pc2.core.transport.TransportManager$2.run (TransportManager.java:342)
+|    at java.lang.Thread.run (Thread.java:748)
+200521 082445.777|INFO|Thread-57|fatalError|PC^2 halted
+200521 083106.147|CONFIG|Thread-64|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200521 083106.161|INFO|Thread-64|info|
+200521 083106.234|INFO|Thread-64|info|Version 9 () Java ver 1.8.0_141 build  Windows 10 10.0 (amd64) 
+200521 083106.234|INFO|Thread-64|info|Login: administrator1 (aka administrator1)
+200521 083106.234|INFO|Thread-64|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200521 083106.234|INFO|Thread-64|startLog|Process id is 7844@DESKTOP-PII08I3
+200521 083137.637|INFO|Thread-64|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200521 083137.638|INFO|Thread-64|info|handlePacket end Packet[LOGIN_SUCCESS] #22 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200521 083137.639|INFO|Thread-64|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #22 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200521 084119.326|CONFIG|Thread-59|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200521 084119.328|INFO|Thread-59|info|
+200521 084119.414|INFO|Thread-59|info|Version 9 () Java ver 1.8.0_141 build  Windows 10 10.0 (amd64) 
+200521 084119.415|INFO|Thread-59|info|Login: administrator1 (aka administrator1)
+200521 084119.415|INFO|Thread-59|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200521 084119.415|INFO|Thread-59|startLog|Process id is 12048@DESKTOP-PII08I3
+200521 084125.115|INFO|Thread-59|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200521 084125.116|INFO|Thread-59|info|handlePacket end Packet[LOGIN_SUCCESS] #27 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200521 084125.116|INFO|Thread-59|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #27 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200521 091116.475|CONFIG|Thread-62|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200521 091116.475|INFO|Thread-62|info|
+200521 091116.519|INFO|Thread-62|info|Version 9 () Java ver 1.8.0_141 build  Windows 10 10.0 (amd64) 
+200521 091116.519|INFO|Thread-62|info|Login: administrator1 (aka administrator1)
+200521 091116.520|INFO|Thread-62|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200521 091116.520|INFO|Thread-62|startLog|Process id is 1752@DESKTOP-PII08I3
+200521 091116.520|INFO|Thread-62|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200521 091116.520|INFO|Thread-62|info|handlePacket end Packet[LOGIN_SUCCESS] #32 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200521 091116.521|INFO|Thread-62|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #32 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200521 092150.190|CONFIG|Thread-66|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200521 092150.191|INFO|Thread-66|info|
+200521 092150.244|INFO|Thread-66|info|Version 9 () Java ver 1.8.0_141 build  Windows 10 10.0 (amd64) 
+200521 092150.244|INFO|Thread-66|info|Login: administrator1 (aka administrator1)
+200521 092150.244|INFO|Thread-66|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200521 092150.245|INFO|Thread-66|startLog|Process id is 7384@DESKTOP-PII08I3
+200521 092150.246|INFO|Thread-66|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200521 092150.246|INFO|Thread-66|info|handlePacket end Packet[LOGIN_SUCCESS] #37 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200521 092150.246|INFO|Thread-66|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #37 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200521 092859.669|CONFIG|Thread-59|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200521 092859.669|INFO|Thread-59|info|
+200521 092859.732|INFO|Thread-59|info|Version 9 () Java ver 1.8.0_141 build  Windows 10 10.0 (amd64) 
+200521 092859.733|INFO|Thread-59|info|Login: administrator1 (aka administrator1)
+200521 092859.733|INFO|Thread-59|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200521 092859.733|INFO|Thread-59|startLog|Process id is 7816@DESKTOP-PII08I3
+200521 092859.733|INFO|Thread-59|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200521 092859.733|INFO|Thread-59|info|handlePacket end Packet[LOGIN_SUCCESS] #42 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200521 092859.733|INFO|Thread-59|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #42 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200521 093218.284|INFO|Thread-62|info| receiveObject(S) start got Packet[ESTABLISHED_CONNECTION] #44 SERVER0 @ site 1 -> SERVER0 @ site 0
+200521 093218.287|INFO|Thread-62|dumpPacket|Packet ESTABLISHED_CONNECTION (Seq #44, o#44 ) recieveObject
+200521 093218.287|INFO|Thread-62|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-PII08I3 @ 192.168.42.152) (Contest Id: Default--733014880925450290)
+200521 093218.288|INFO|Thread-62|dumpPacket|    To: SERVER0 @ site 0
+200521 093218.288|INFO|Thread-62|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/127.0.0.1,port=61404,localport=50002]-1309408266072245607
+200521 093218.288|INFO|Thread-62|info|handlePacket start Packet[ESTABLISHED_CONNECTION] #44 SERVER0 @ site 1 -> SERVER0 @ site 0
+200521 093218.288|INFO|Thread-62|dumpPacket|Packet ESTABLISHED_CONNECTION (Seq #44, o#44 ) handlePacket
+200521 093218.288|INFO|Thread-62|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-PII08I3 @ 192.168.42.152) (Contest Id: Default--733014880925450290)
+200521 093218.288|INFO|Thread-62|dumpPacket|    To: SERVER0 @ site 0
+200521 093218.288|INFO|Thread-62|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/127.0.0.1,port=61404,localport=50002]-1309408266072245607
+200521 093218.289|INFO|Thread-62|info| receiveObject(S) end   got Packet[ESTABLISHED_CONNECTION] #44 SERVER0 @ site 1 -> SERVER0 @ site 0
+200521 093218.521|WARNING|Thread-57|loadUIClass|Unable to load UI, class = edu.csus.ecs.pc2.ui.CountDownMessage
+200521 093218.523|INFO|Thread-57|info|connectionDropped: shutting down ADMINISTRATOR1 @ site 1
+200521 093924.057|CONFIG|Thread-64|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200521 093924.058|INFO|Thread-64|info|
+200521 093924.103|INFO|Thread-64|info|Version 9 () Java ver 1.8.0_141 build  Windows 10 10.0 (amd64) 
+200521 093924.103|INFO|Thread-64|info|Login: administrator1 (aka administrator1)
+200521 093924.103|INFO|Thread-64|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200521 093924.103|INFO|Thread-64|startLog|Process id is 11724@DESKTOP-PII08I3
+200521 093924.104|INFO|Thread-64|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200521 093924.104|INFO|Thread-64|info|handlePacket end Packet[LOGIN_SUCCESS] #57 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200521 093924.104|INFO|Thread-64|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #57 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200521 093950.602|INFO|http-nio-8080-exec-5|sendToLocalServer|Sending packet to server Packet[GENERATE_ACCOUNTS] #2 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+200521 093950.604|INFO|http-nio-8080-exec-5|sendToLocalServer|Sent    packet to server Packet[GENERATE_ACCOUNTS] #2 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+200521 093950.649|INFO|Thread-66|info| receiveObject(S) start got Packet[ADD_SETTING] #59 SERVER0 @ site 1 -> SERVER0 @ site 0
+200521 093950.649|INFO|Thread-66|dumpPacket|Packet ADD_SETTING (Seq #59, o#59 ) recieveObject
+200521 093950.649|INFO|Thread-66|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-PII08I3 @ 192.168.42.152) (Contest Id: Default--733014880925450290)
+200521 093950.649|INFO|Thread-66|dumpPacket|    To: SERVER0 @ site 0
+200521 093950.649|INFO|Thread-66|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+200521 093950.649|INFO|Thread-66|dumpPacket|   key: SITE_NUMBER is: java.lang.Integer 1
+200521 093950.649|INFO|Thread-66|dumpPacket|   key: ACCOUNT_ARRAY is: [Ledu.csus.ecs.pc2.core.model.Account; [Ledu.csus.ecs.pc2.core.model.Account;@691e5de5
+200521 093950.650|INFO|Thread-66|info|handlePacket start Packet[ADD_SETTING] #59 SERVER0 @ site 1 -> SERVER0 @ site 0
+200521 093950.650|INFO|Thread-66|dumpPacket|Packet ADD_SETTING (Seq #59, o#59 ) handlePacket
+200521 093950.650|INFO|Thread-66|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-PII08I3 @ 192.168.42.152) (Contest Id: Default--733014880925450290)
+200521 093950.650|INFO|Thread-66|dumpPacket|    To: SERVER0 @ site 0
+200521 093950.650|INFO|Thread-66|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+200521 093950.650|INFO|Thread-66|dumpPacket|   key: SITE_NUMBER is: java.lang.Integer 1
+200521 093950.651|INFO|Thread-66|dumpPacket|   key: ACCOUNT_ARRAY is: [Ledu.csus.ecs.pc2.core.model.Account; [Ledu.csus.ecs.pc2.core.model.Account;@691e5de5
+200521 093950.651|INFO|Thread-66|info|handlePacket end Packet[ADD_SETTING] #59 SERVER0 @ site 1 -> SERVER0 @ site 0
+200521 093950.651|INFO|Thread-66|info| receiveObject(S) end   got Packet[ADD_SETTING] #59 SERVER0 @ site 1 -> SERVER0 @ site 0
+200521 122546.917|CONFIG|Thread-6|setFileHandlers|Now logging to H:\Университет\8 сем - FINISH!!!\Диплом\pc2v9-PC2_RELEASE_9_6_x\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200521 122546.938|INFO|Thread-6|info|
+200521 122546.949|INFO|Thread-6|info|Version 9 () Java ver 1.8.0_144 build  Windows 7 6.1 (amd64) 
+200521 122546.950|INFO|Thread-6|info|Login: administrator1 (aka administrator1)
+200521 122546.950|INFO|Thread-6|startLog|Working directory is H:\Университет\8 сем - FINISH!!!\Диплом\pc2v9-PC2_RELEASE_9_6_x\pc2v9-PC2_RELEASE_9_6_x\pc2
+200521 122546.950|INFO|Thread-6|startLog|Process id is 14172@admin-ПК
+200521 122546.950|INFO|Thread-6|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200521 122546.950|INFO|Thread-6|info|handlePacket end Packet[LOGIN_SUCCESS] #2 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200521 122546.951|INFO|Thread-6|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #2 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200521 122624.527|INFO|http-nio-8080-exec-9|sendToLocalServer|Sending packet to server Packet[GENERATE_ACCOUNTS] #2 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+200521 122624.529|INFO|http-nio-8080-exec-9|sendToLocalServer|Sent    packet to server Packet[GENERATE_ACCOUNTS] #2 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+200521 122624.562|INFO|Thread-8|info| receiveObject(S) start got Packet[ADD_SETTING] #4 SERVER0 @ site 1 -> SERVER0 @ site 0
+200521 122624.563|INFO|Thread-8|dumpPacket|Packet ADD_SETTING (Seq #4, o#4 ) recieveObject
+200521 122624.563|INFO|Thread-8|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (admin-ПК @ 192.168.56.1) (Contest Id: Default--733014880925450290)
+200521 122624.563|INFO|Thread-8|dumpPacket|    To: SERVER0 @ site 0
+200521 122624.563|INFO|Thread-8|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+200521 122624.563|INFO|Thread-8|dumpPacket|   key: SITE_NUMBER is: java.lang.Integer 1
+200521 122624.563|INFO|Thread-8|dumpPacket|   key: ACCOUNT_ARRAY is: [Ledu.csus.ecs.pc2.core.model.Account; [Ledu.csus.ecs.pc2.core.model.Account;@18c5f288
+200521 122624.564|INFO|Thread-8|info|handlePacket start Packet[ADD_SETTING] #4 SERVER0 @ site 1 -> SERVER0 @ site 0
+200521 122624.564|INFO|Thread-8|dumpPacket|Packet ADD_SETTING (Seq #4, o#4 ) handlePacket
+200521 122624.564|INFO|Thread-8|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (admin-ПК @ 192.168.56.1) (Contest Id: Default--733014880925450290)
+200521 122624.564|INFO|Thread-8|dumpPacket|    To: SERVER0 @ site 0
+200521 122624.564|INFO|Thread-8|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+200521 122624.564|INFO|Thread-8|dumpPacket|   key: SITE_NUMBER is: java.lang.Integer 1
+200521 122624.564|INFO|Thread-8|dumpPacket|   key: ACCOUNT_ARRAY is: [Ledu.csus.ecs.pc2.core.model.Account; [Ledu.csus.ecs.pc2.core.model.Account;@18c5f288
+200521 122624.565|INFO|Thread-8|info|handlePacket end Packet[ADD_SETTING] #4 SERVER0 @ site 1 -> SERVER0 @ site 0
+200521 122624.565|INFO|Thread-8|info| receiveObject(S) end   got Packet[ADD_SETTING] #4 SERVER0 @ site 1 -> SERVER0 @ site 0
+200521 122727.327|INFO|Thread-10|info| receiveObject(S) start got Packet[ESTABLISHED_CONNECTION] #5 SERVER0 @ site 1 -> SERVER0 @ site 0
+200521 122727.328|INFO|Thread-10|dumpPacket|Packet ESTABLISHED_CONNECTION (Seq #5, o#5 ) recieveObject
+200521 122727.328|INFO|Thread-10|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (admin-ПК @ 192.168.56.1) (Contest Id: Default--733014880925450290)
+200521 122727.328|INFO|Thread-10|dumpPacket|    To: SERVER0 @ site 0
+200521 122727.328|INFO|Thread-10|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/127.0.0.1,port=41276,localport=50002]--319874479161158488
+200521 122727.328|INFO|Thread-10|info|handlePacket start Packet[ESTABLISHED_CONNECTION] #5 SERVER0 @ site 1 -> SERVER0 @ site 0
+200521 122727.328|INFO|Thread-10|dumpPacket|Packet ESTABLISHED_CONNECTION (Seq #5, o#5 ) handlePacket
+200521 122727.328|INFO|Thread-10|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (admin-ПК @ 192.168.56.1) (Contest Id: Default--733014880925450290)
+200521 122727.329|INFO|Thread-10|dumpPacket|    To: SERVER0 @ site 0
+200521 122727.329|INFO|Thread-10|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/127.0.0.1,port=41276,localport=50002]--319874479161158488
+200521 122727.329|INFO|Thread-10|info| receiveObject(S) end   got Packet[ESTABLISHED_CONNECTION] #5 SERVER0 @ site 1 -> SERVER0 @ site 0
+200521 122727.576|WARNING|Thread-3|loadUIClass|Unable to load UI, class = edu.csus.ecs.pc2.ui.CountDownMessage
+200521 122727.598|INFO|Thread-3|info|connectionDropped: shutting down ADMINISTRATOR1 @ site 1
+200521 171916.048|CONFIG|Thread-6|setFileHandlers|Now logging to H:\Университет\8 сем - FINISH!!!\Диплом\pc2v9-PC2_RELEASE_9_6_x\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200521 171916.048|INFO|Thread-6|info|
+200521 171916.058|INFO|Thread-6|info|Version 9 () Java ver 1.8.0_144 build  Windows 7 6.1 (amd64) 
+200521 171916.058|INFO|Thread-6|info|Login: administrator1 (aka administrator1)
+200521 171916.058|INFO|Thread-6|startLog|Working directory is H:\Университет\8 сем - FINISH!!!\Диплом\pc2v9-PC2_RELEASE_9_6_x\pc2v9-PC2_RELEASE_9_6_x\pc2
+200521 171916.058|INFO|Thread-6|startLog|Process id is 11260@admin-ПК
+200521 171916.058|INFO|Thread-6|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200521 171916.058|INFO|Thread-6|info|handlePacket end Packet[LOGIN_SUCCESS] #13 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200521 171916.059|INFO|Thread-6|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #13 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200521 172226.087|CONFIG|Thread-6|setFileHandlers|Now logging to H:\Университет\8 сем - FINISH!!!\Диплом\pc2v9-PC2_RELEASE_9_6_x\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200521 172226.087|INFO|Thread-6|info|
+200521 172226.097|INFO|Thread-6|info|Version 9 () Java ver 1.8.0_144 build  Windows 7 6.1 (amd64) 
+200521 172226.097|INFO|Thread-6|info|Login: administrator1 (aka administrator1)
+200521 172226.097|INFO|Thread-6|startLog|Working directory is H:\Университет\8 сем - FINISH!!!\Диплом\pc2v9-PC2_RELEASE_9_6_x\pc2v9-PC2_RELEASE_9_6_x\pc2
+200521 172226.097|INFO|Thread-6|startLog|Process id is 17500@admin-ПК
+200521 172226.098|INFO|Thread-6|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200521 172226.098|INFO|Thread-6|info|handlePacket end Packet[LOGIN_SUCCESS] #2 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200521 172226.098|INFO|Thread-6|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #2 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200521 172322.677|WARNING|Thread-3|loadUIClass|Unable to load UI, class = edu.csus.ecs.pc2.ui.CountDownMessage
+200521 172322.678|INFO|Thread-3|info|connectionDropped: shutting down ADMINISTRATOR1 @ site 1

@@ -1,0 +1,12 @@
+200521 091115.698|CONFIG|http-nio-8080-exec-1|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200521 091115.700|INFO|http-nio-8080-exec-1|info|
+200521 091115.755|INFO|http-nio-8080-exec-1|info|Version 9 () Java ver 1.8.0_141 build  Windows 10 10.0 (amd64) 
+200521 091115.761|INFO|http-nio-8080-exec-1|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200521 091115.763|INFO|http-nio-8080-exec-1|startLog|Process id is 1752@DESKTOP-PII08I3
+200521 091115.763|INFO|http-nio-8080-exec-1|start|Starting ConnectionManager...
+200521 091115.793|INFO|http-nio-8080-exec-1|start|Started ConnectionManager
+200521 091115.796|INFO|http-nio-8080-exec-1|setClientServerAndPort|INIFile File location: file:/C:/Users/demid/Desktop/diplom/pc2v9-PC2_RELEASE_9_6_x/pc2/pc2v9.ini
+200521 091115.797|INFO|http-nio-8080-exec-1|setClientServerAndPort|setClientServerAndPort localhost parsed as localhost port 50002
+200521 091115.797|INFO|http-nio-8080-exec-1|info|Contacting server at localhost:50002
+200521 091115.800|INFO|http-nio-8080-exec-1|connectToMyServer|Connecting to localhost:50002
+200521 091115.869|INFO|Thread-60|receiveUnencrypted|receiveUnencrypted(TransportWrapper, ConnectionHandlerID=Socket[addr=localhost/127.0.0.1,port=50002,localport=61161]-3821795782869101327)

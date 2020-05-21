@@ -1,0 +1,16 @@
+CSUS Programming Contest System
+Date: четверг, 21 мая 2020 г., 17:20:32 KRAT
+Version 9.6.0 () Java ver 9.0.4 build 5102 Windows 7 6.1 (amd64) 
+
+Solutions By Problem Report
+
+There are 0 runs.
+
+Incorrect  Correct  Total     %   Problem Description
+--------- --------- ----- ------  -------------------
+     0         0       0    0.00  summa
+--------- --------- ----- ------  -------------------
+     0         0       0    0.00  Totals
+--------- --------- ----- ------  -------------------
+
+end report

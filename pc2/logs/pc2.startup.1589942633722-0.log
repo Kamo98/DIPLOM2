@@ -1,0 +1,9 @@
+200520 094353.824|CONFIG|main|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200520 094353.858|INFO|main|info|
+200520 094353.897|INFO|main|info|Version 9 () Java ver 14.0.1 build  Windows 10 10.0 (amd64) 
+200520 094353.899|INFO|main|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200520 094353.963|INFO|main|startLog|Process id is 8744@DESKTOP-PII08I3
+200520 094353.963|INFO|main|start|Starting ConnectionManager...
+200520 094354.199|INFO|main|start|Started ConnectionManager
+200520 094354.201|SEVERE|main|fatalError|Cannot start PC^2, pc2v9.ini file not found in C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200520 094354.202|INFO|main|fatalError|PC^2 halted

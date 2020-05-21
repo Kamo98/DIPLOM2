@@ -1,0 +1,98 @@
+CSUS Programming Contest System
+Date: четверг, 21 мая 2020 г., 09:40:50 GMT+07:00
+Version 9.6.0 () Java ver 14.0.1 build 5102 Windows 10 10.0 (amd64) 
+
+Standings XML  Report
+
+-- Start XML --
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<contestStandings>
+  <standingsHeader currentDate="Thu May 21 09:40:50 GMT+07:00 2020" generatorId="$Id$" groupCount="1" medianProblemsSolved="0" problemCount="1" problemsAttempted="0" siteCount="1" systemName="CSUS Programming Contest System" systemURL="http://pc2.ecs.csus.edu/" systemVersion="9.6.0 build 5102" title="Programming Contest" totalAttempts="0" totalSolved="0">
+    <groupList/>
+    <colorList/>
+    <problem attempts="0" id="1" numberSolved="0" title="summa"/>
+  </standingsHeader>
+  <teamStanding firstSolved="-1" index="0" lastSolved="0" points="0" problemsAttempted="0" rank="1" solved="0" teamAlias="team1 (not aliasesd)" teamExternalId="1001" teamId="1" teamKey="1TEAM1" teamName="team1" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="summa--4064439748716734462" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="1" lastSolved="0" points="0" problemsAttempted="0" rank="1" solved="0" teamAlias="team2 (not aliasesd)" teamExternalId="1002" teamId="2" teamKey="1TEAM2" teamName="team2" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="summa--4064439748716734462" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="2" lastSolved="0" points="0" problemsAttempted="0" rank="1" solved="0" teamAlias="team3 (not aliasesd)" teamExternalId="1003" teamId="3" teamKey="1TEAM3" teamName="team3" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="summa--4064439748716734462" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="3" lastSolved="0" points="0" problemsAttempted="0" rank="1" solved="0" teamAlias="team4 (not aliasesd)" teamExternalId="1004" teamId="4" teamKey="1TEAM4" teamName="team4" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="summa--4064439748716734462" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="4" lastSolved="0" points="0" problemsAttempted="0" rank="1" solved="0" teamAlias="team5 (not aliasesd)" teamExternalId="1005" teamId="5" teamKey="1TEAM5" teamName="team5" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="summa--4064439748716734462" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="5" lastSolved="0" points="0" problemsAttempted="0" rank="1" solved="0" teamAlias="team6 (not aliasesd)" teamExternalId="1006" teamId="6" teamKey="1TEAM6" teamName="team6" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="summa--4064439748716734462" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="6" lastSolved="0" points="0" problemsAttempted="0" rank="1" solved="0" teamAlias="team7 (not aliasesd)" teamExternalId="1007" teamId="7" teamKey="1TEAM7" teamName="team7" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="summa--4064439748716734462" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="7" lastSolved="0" points="0" problemsAttempted="0" rank="1" solved="0" teamAlias="team8 (not aliasesd)" teamExternalId="1008" teamId="8" teamKey="1TEAM8" teamName="team8" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="summa--4064439748716734462" solutionTime="0"/>
+  </teamStanding>
+</contestStandings>
+
+
+-- End XML --
+
+ #document DOCUMENT_NODE
+    contestStandings ELEMENT_NODE
+       #text TEXT_NODE
+       standingsHeader ELEMENT_NODE
+          #text TEXT_NODE
+          groupList ELEMENT_NODE
+          #text TEXT_NODE
+          colorList ELEMENT_NODE
+          #text TEXT_NODE
+          problem ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+       teamStanding ELEMENT_NODE
+          #text TEXT_NODE
+          problemSummaryInfo ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+
+
+end report

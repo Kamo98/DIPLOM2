@@ -1,0 +1,72 @@
+200520 091638.245|CONFIG|main|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\bin\logs directory.
+200520 091638.250|INFO|main|info|
+200520 091638.259|INFO|main|info|Version 9.6.0 () Java ver 14.0.1 build 5102 Windows 10 10.0 (amd64) 
+200520 091638.260|INFO|main|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\bin
+200520 091638.314|INFO|main|startLog|Process id is 1468@DESKTOP-PII08I3
+200520 091638.315|INFO|main|start|Starting ConnectionManager...
+200520 091638.487|INFO|main|start|Started ConnectionManager
+200520 091638.492|INFO|main|info|Starting Server Transport...
+200520 094819.252|CONFIG|main|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\bin\logs directory.
+200520 094819.255|INFO|main|info|
+200520 094819.264|INFO|main|info|Version 9.6.0 () Java ver 14.0.1 build 5102 Windows 10 10.0 (amd64) 
+200520 094819.265|INFO|main|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\bin
+200520 094819.313|INFO|main|startLog|Process id is 7920@DESKTOP-PII08I3
+200520 094819.314|INFO|main|start|Starting ConnectionManager...
+200520 094819.428|INFO|main|start|Started ConnectionManager
+200520 094819.432|INFO|main|info|Starting Server Transport...
+200520 204817.851|CONFIG|main|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\bin\logs directory.
+200520 204817.851|INFO|main|info|
+200520 204817.866|INFO|main|info|Version 9.6.0 () Java ver 14.0.1 build 5102 Windows 10 10.0 (amd64) 
+200520 204817.866|INFO|main|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\bin
+200520 204817.929|INFO|main|startLog|Process id is 2752@DESKTOP-PII08I3
+200520 204817.929|INFO|main|start|Starting ConnectionManager...
+200520 204818.116|INFO|main|start|Started ConnectionManager
+200520 204818.116|INFO|main|info|Starting Server Transport...
+200520 223524.221|CONFIG|main|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\bin\logs directory.
+200520 223524.225|INFO|main|info|
+200520 223524.233|INFO|main|info|Version 9.6.0 () Java ver 14.0.1 build 5102 Windows 10 10.0 (amd64) 
+200520 223524.234|INFO|main|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\bin
+200520 223524.284|INFO|main|startLog|Process id is 10380@DESKTOP-PII08I3
+200520 223524.285|INFO|main|start|Starting ConnectionManager...
+200520 223524.414|INFO|main|start|Started ConnectionManager
+200520 223524.422|INFO|main|info|Starting Server Transport...
+200521 081236.116|CONFIG|main|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\bin\logs directory.
+200521 081236.122|INFO|main|info|
+200521 081236.130|INFO|main|info|Version 9.6.0 () Java ver 14.0.1 build 5102 Windows 10 10.0 (amd64) 
+200521 081236.131|INFO|main|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\bin
+200521 081236.183|INFO|main|startLog|Process id is 9496@DESKTOP-PII08I3
+200521 081236.184|INFO|main|start|Starting ConnectionManager...
+200521 081236.346|INFO|main|start|Started ConnectionManager
+200521 081236.361|INFO|main|info|Starting Server Transport...
+200521 120751.985|CONFIG|main|setFileHandlers|Now logging to H:\Университет\8 сем - FINISH!!!\Диплом\pc2v9-PC2_RELEASE_9_6_x\pc2v9-PC2_RELEASE_9_6_x\bin\logs directory.
+200521 120752.006|INFO|main|info|
+200521 120752.010|INFO|main|info|Version 9.6.0 () Java ver 9.0.4 build 5102 Windows 7 6.1 (amd64) 
+200521 120752.011|INFO|main|startLog|Working directory is H:\Университет\8 сем - FINISH!!!\Диплом\pc2v9-PC2_RELEASE_9_6_x\pc2v9-PC2_RELEASE_9_6_x\bin
+200521 120752.071|INFO|main|startLog|Process id is 11308@admin-ПК
+200521 120752.071|INFO|main|start|Starting ConnectionManager...
+200521 120752.361|INFO|main|start|Started ConnectionManager
+200521 120752.363|INFO|main|info|Starting Server Transport...
+200521 172038.422|CONFIG|main|setFileHandlers|Now logging to H:\Университет\8 сем - FINISH!!!\Диплом\pc2v9-PC2_RELEASE_9_6_x\pc2v9-PC2_RELEASE_9_6_x\bin\logs directory.
+200521 172038.442|INFO|main|info|
+200521 172038.446|INFO|main|info|Version 9.6.0 () Java ver 9.0.4 build 5102 Windows 7 6.1 (amd64) 
+200521 172038.446|INFO|main|startLog|Working directory is H:\Университет\8 сем - FINISH!!!\Диплом\pc2v9-PC2_RELEASE_9_6_x\pc2v9-PC2_RELEASE_9_6_x\bin
+200521 172038.494|INFO|main|startLog|Process id is 15488@admin-ПК
+200521 172038.494|INFO|main|start|Starting ConnectionManager...
+200521 172038.753|INFO|main|start|Started ConnectionManager
+200521 172038.755|INFO|main|info|Starting Server Transport...
+200521 172057.129|CONFIG|main|setFileHandlers|Now logging to H:\Университет\8 сем - FINISH!!!\Диплом\pc2v9-PC2_RELEASE_9_6_x\pc2v9-PC2_RELEASE_9_6_x\bin\logs directory.
+200521 172057.133|INFO|main|info|
+200521 172057.137|INFO|main|info|Version 9.6.0 () Java ver 9.0.4 build 5102 Windows 7 6.1 (amd64) 
+200521 172057.137|INFO|main|startLog|Working directory is H:\Университет\8 сем - FINISH!!!\Диплом\pc2v9-PC2_RELEASE_9_6_x\pc2v9-PC2_RELEASE_9_6_x\bin
+200521 172057.179|INFO|main|startLog|Process id is 16364@admin-ПК
+200521 172057.179|INFO|main|start|Starting ConnectionManager...
+200521 172057.445|INFO|main|start|Started ConnectionManager
+200521 172057.447|INFO|main|info|Starting Server Transport...
+200521 172325.497|CONFIG|main|setFileHandlers|Now logging to H:\Университет\8 сем - FINISH!!!\Диплом\pc2v9-PC2_RELEASE_9_6_x\pc2v9-PC2_RELEASE_9_6_x\bin\logs directory.
+200521 172325.501|INFO|main|info|
+200521 172325.505|INFO|main|info|Version 9.6.0 () Java ver 9.0.4 build 5102 Windows 7 6.1 (amd64) 
+200521 172325.506|INFO|main|startLog|Working directory is H:\Университет\8 сем - FINISH!!!\Диплом\pc2v9-PC2_RELEASE_9_6_x\pc2v9-PC2_RELEASE_9_6_x\bin
+200521 172325.544|INFO|main|startLog|Process id is 9840@admin-ПК
+200521 172325.545|INFO|main|start|Starting ConnectionManager...
+200521 172325.807|INFO|main|start|Started ConnectionManager
+200521 172325.809|INFO|main|info|Starting Server Transport...

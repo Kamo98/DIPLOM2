@@ -1,0 +1,31 @@
+CSUS Programming Contest System
+Date: среда, 20 мая 2020 г., 09:17:56 GMT+07:00
+Version 9.6.0 () Java ver 14.0.1 build 5102 Windows 10 10.0 (amd64) 
+
+Standings XML  Report
+
+-- Start XML --
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<contestStandings>
+  <standingsHeader currentDate="Wed May 20 09:17:56 GMT+07:00 2020" generatorId="$Id$" groupCount="1" medianProblemsSolved="0" problemCount="0" problemsAttempted="0" siteCount="1" systemName="CSUS Programming Contest System" systemURL="http://pc2.ecs.csus.edu/" systemVersion="9.6.0 build 5102" title="Programming Contest" totalAttempts="0" totalSolved="0">
+    <groupList/>
+    <colorList/>
+  </standingsHeader>
+</contestStandings>
+
+
+-- End XML --
+
+ #document DOCUMENT_NODE
+    contestStandings ELEMENT_NODE
+       #text TEXT_NODE
+       standingsHeader ELEMENT_NODE
+          #text TEXT_NODE
+          groupList ELEMENT_NODE
+          #text TEXT_NODE
+          colorList ELEMENT_NODE
+          #text TEXT_NODE
+       #text TEXT_NODE
+
+
+end report

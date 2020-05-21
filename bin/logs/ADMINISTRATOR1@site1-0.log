@@ -1,0 +1,22 @@
+200520 091712.698|CONFIG|Thread-3|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\bin\logs directory.
+200520 091712.698|INFO|Thread-3|info|
+200520 091712.699|INFO|Thread-3|info|Version 9.6.0 () Java ver 14.0.1 build 5102 Windows 10 10.0 (amd64) 
+200520 091712.699|INFO|Thread-3|info|Login: administrator1 (aka administrator1)
+200520 091712.699|INFO|Thread-3|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\bin
+200520 091712.700|INFO|Thread-3|startLog|Process id is 13048@DESKTOP-PII08I3
+200520 091712.700|INFO|Thread-3|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 091712.712|INFO|Thread-3|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 091713.952|INFO|Thread-3|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200520 091713.952|INFO|Thread-3|info|handlePacket end Packet[LOGIN_SUCCESS] #2 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 091713.953|INFO|Thread-3|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #2 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 095047.703|CONFIG|Thread-3|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\bin\logs directory.
+200520 095047.704|INFO|Thread-3|info|
+200520 095047.704|INFO|Thread-3|info|Version 9.6.0 () Java ver 14.0.1 build 5102 Windows 10 10.0 (amd64) 
+200520 095047.704|INFO|Thread-3|info|Login: administrator1 (aka administrator1)
+200520 095047.704|INFO|Thread-3|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\bin
+200520 095047.705|INFO|Thread-3|startLog|Process id is 1660@DESKTOP-PII08I3
+200520 095047.705|INFO|Thread-3|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 095047.715|INFO|Thread-3|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 095048.823|INFO|Thread-3|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200520 095048.824|INFO|Thread-3|info|handlePacket end Packet[LOGIN_SUCCESS] #9 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200520 095048.824|INFO|Thread-3|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #9 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1

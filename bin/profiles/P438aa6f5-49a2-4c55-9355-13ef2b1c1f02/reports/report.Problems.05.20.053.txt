@@ -1,0 +1,18 @@
+CSUS Programming Contest System
+Date: среда, 20 мая 2020 г., 09:17:56 GMT+07:00
+Version 9.6.0 () Java ver 14.0.1 build 5102 Windows 10 10.0 (amd64) 
+
+Problems Report
+
+Contest date/time: never started
+
+-- 0 problems --
+
+  Location for Judges CDP / problem config : ''
+  Location for  Admin CDP / problem config : ''
+
+-- 0 problem data file sets --
+ Categories:
+  General
+
+end report

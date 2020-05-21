@@ -1,0 +1,58 @@
+200520 091653.366|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\bin\logs directory.
+200520 091653.378|INFO|AWT-EventQueue-0|initializeSecurityAlertWindow|Security Log Started Version 9.6.0 () Java ver 14.0.1 build 5102 Windows 10 10.0 (amd64) 
+200520 094826.581|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\bin\logs directory.
+200520 094826.591|INFO|AWT-EventQueue-0|initializeSecurityAlertWindow|Security Log Started Version 9.6.0 () Java ver 14.0.1 build 5102 Windows 10 10.0 (amd64) 
+200520 204826.675|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\bin\logs directory.
+200520 204826.697|INFO|AWT-EventQueue-0|initializeSecurityAlertWindow|Security Log Started Version 9.6.0 () Java ver 14.0.1 build 5102 Windows 10 10.0 (amd64) 
+200520 223536.211|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\bin\logs directory.
+200520 223536.221|INFO|AWT-EventQueue-0|initializeSecurityAlertWindow|Security Log Started Version 9.6.0 () Java ver 14.0.1 build 5102 Windows 10 10.0 (amd64) 
+200520 224456.837|SEVERE|Thread-24|newMessage|SecurityException From:  ADMINISTRATOR1 @ site 1 ADMINISTRATOR1 @ site 1: duplicate login request; previous login forced off  
+|edu.csus.ecs.pc2.core.exception.ContestSecurityException: ADMINISTRATOR1 @ site 1: duplicate login request; previous login forced off 
+|    at edu.csus.ecs.pc2.core.InternalController.attemptToLogin (InternalController.java:1949)
+|    at edu.csus.ecs.pc2.core.InternalController.receiveObject (InternalController.java:1405)
+|    at edu.csus.ecs.pc2.core.transport.TransportManager$1.run (TransportManager.java:335)
+|    at java.lang.Thread.run (Thread.java:832)
+200520 224456.841|SEVERE|Thread-24|newMessage|SecurityException Sec. Message: ADMINISTRATOR1 @ site 1: duplicate login request; previous login forced off  ConnHandId Socket[addr=/127.0.0.1,port=59673,localport=50002]--19244200955639423
+200520 224514.147|SEVERE|Thread-29|newMessage|SecurityException From:  ADMINISTRATOR1 @ site 1 ADMINISTRATOR1 @ site 1: duplicate login request; previous login forced off  
+|edu.csus.ecs.pc2.core.exception.ContestSecurityException: ADMINISTRATOR1 @ site 1: duplicate login request; previous login forced off 
+|    at edu.csus.ecs.pc2.core.InternalController.attemptToLogin (InternalController.java:1949)
+|    at edu.csus.ecs.pc2.core.InternalController.receiveObject (InternalController.java:1405)
+|    at edu.csus.ecs.pc2.core.transport.TransportManager$1.run (TransportManager.java:335)
+|    at java.lang.Thread.run (Thread.java:832)
+200520 224514.147|SEVERE|Thread-29|newMessage|SecurityException Sec. Message: ADMINISTRATOR1 @ site 1: duplicate login request; previous login forced off  ConnHandId Socket[addr=/127.0.0.1,port=59676,localport=50002]-3561834776543736208
+200521 081245.253|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\bin\logs directory.
+200521 081245.268|INFO|AWT-EventQueue-0|initializeSecurityAlertWindow|Security Log Started Version 9.6.0 () Java ver 14.0.1 build 5102 Windows 10 10.0 (amd64) 
+200521 093218.334|SEVERE|Thread-40|newMessage|SecurityException From:  ADMINISTRATOR1 @ site 1 ADMINISTRATOR1 @ site 1: duplicate login request; previous login forced off  
+|edu.csus.ecs.pc2.core.exception.ContestSecurityException: ADMINISTRATOR1 @ site 1: duplicate login request; previous login forced off 
+|    at edu.csus.ecs.pc2.core.InternalController.attemptToLogin (InternalController.java:1949)
+|    at edu.csus.ecs.pc2.core.InternalController.receiveObject (InternalController.java:1405)
+|    at edu.csus.ecs.pc2.core.transport.TransportManager$1.run (TransportManager.java:335)
+|    at java.lang.Thread.run (Thread.java:832)
+200521 093218.336|SEVERE|Thread-40|newMessage|SecurityException Sec. Message: ADMINISTRATOR1 @ site 1: duplicate login request; previous login forced off  ConnHandId Socket[addr=/127.0.0.1,port=61404,localport=50002]-1309408266072245607
+200521 093220.933|SEVERE|Thread-45|newMessage|SecurityException From:  ADMINISTRATOR1 @ site 1 ADMINISTRATOR1 @ site 1: duplicate login request; previous login forced off  
+|edu.csus.ecs.pc2.core.exception.ContestSecurityException: ADMINISTRATOR1 @ site 1: duplicate login request; previous login forced off 
+|    at edu.csus.ecs.pc2.core.InternalController.attemptToLogin (InternalController.java:1949)
+|    at edu.csus.ecs.pc2.core.InternalController.receiveObject (InternalController.java:1405)
+|    at edu.csus.ecs.pc2.core.transport.TransportManager$1.run (TransportManager.java:335)
+|    at java.lang.Thread.run (Thread.java:832)
+200521 093220.934|SEVERE|Thread-45|newMessage|SecurityException Sec. Message: ADMINISTRATOR1 @ site 1: duplicate login request; previous login forced off  ConnHandId Socket[addr=/127.0.0.1,port=61406,localport=50002]--1011979772227639541
+200521 120921.920|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to H:\Университет\8 сем - FINISH!!!\Диплом\pc2v9-PC2_RELEASE_9_6_x\pc2v9-PC2_RELEASE_9_6_x\bin\logs directory.
+200521 120921.930|INFO|AWT-EventQueue-0|initializeSecurityAlertWindow|Security Log Started Version 9.6.0 () Java ver 9.0.4 build 5102 Windows 7 6.1 (amd64) 
+200521 122727.371|SEVERE|Thread-10|newMessage|SecurityException From:  ADMINISTRATOR1 @ site 1 ADMINISTRATOR1 @ site 1: duplicate login request; previous login forced off  
+|edu.csus.ecs.pc2.core.exception.ContestSecurityException: ADMINISTRATOR1 @ site 1: duplicate login request; previous login forced off 
+|    at edu.csus.ecs.pc2.core.InternalController.attemptToLogin (InternalController.java:1949)
+|    at edu.csus.ecs.pc2.core.InternalController.receiveObject (InternalController.java:1405)
+|    at edu.csus.ecs.pc2.core.transport.TransportManager$1.run (TransportManager.java:335)
+|    at java.lang.Thread.run (Unknown Source)
+200521 122727.374|SEVERE|Thread-10|newMessage|SecurityException Sec. Message: ADMINISTRATOR1 @ site 1: duplicate login request; previous login forced off  ConnHandId Socket[addr=/127.0.0.1,port=41276,localport=50002]--319874479161158488
+200521 171934.496|SEVERE|Thread-19|newMessage|SecurityException From:  ADMINISTRATOR1 @ site 1 ADMINISTRATOR1 @ site 1: duplicate login request; previous login forced off  
+|edu.csus.ecs.pc2.core.exception.ContestSecurityException: ADMINISTRATOR1 @ site 1: duplicate login request; previous login forced off 
+|    at edu.csus.ecs.pc2.core.InternalController.attemptToLogin (InternalController.java:1949)
+|    at edu.csus.ecs.pc2.core.InternalController.receiveObject (InternalController.java:1405)
+|    at edu.csus.ecs.pc2.core.transport.TransportManager$1.run (TransportManager.java:335)
+|    at java.lang.Thread.run (Unknown Source)
+200521 171934.515|SEVERE|Thread-19|newMessage|SecurityException Sec. Message: ADMINISTRATOR1 @ site 1: duplicate login request; previous login forced off  ConnHandId Socket[addr=/127.0.0.1,port=48855,localport=50002]-4910649683324609599
+200521 172112.830|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to H:\Университет\8 сем - FINISH!!!\Диплом\pc2v9-PC2_RELEASE_9_6_x\pc2v9-PC2_RELEASE_9_6_x\bin\logs directory.
+200521 172112.840|INFO|AWT-EventQueue-0|initializeSecurityAlertWindow|Security Log Started Version 9.6.0 () Java ver 9.0.4 build 5102 Windows 7 6.1 (amd64) 
+200521 172337.917|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to H:\Университет\8 сем - FINISH!!!\Диплом\pc2v9-PC2_RELEASE_9_6_x\pc2v9-PC2_RELEASE_9_6_x\bin\logs directory.
+200521 172337.927|INFO|AWT-EventQueue-0|initializeSecurityAlertWindow|Security Log Started Version 9.6.0 () Java ver 9.0.4 build 5102 Windows 7 6.1 (amd64) 

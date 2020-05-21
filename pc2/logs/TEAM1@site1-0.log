@@ -1,0 +1,11 @@
+200520 121524.826|CONFIG|Thread-2|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200520 121524.827|INFO|Thread-2|info|
+200520 121524.840|INFO|Thread-2|info|Version 9 () Java ver 14.0.1 build  Windows 10 10.0 (amd64) 
+200520 121524.841|INFO|Thread-2|info|Login: team1 (aka team1)
+200520 121524.842|INFO|Thread-2|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200520 121524.842|INFO|Thread-2|startLog|Process id is 11628@DESKTOP-PII08I3
+200520 121524.844|INFO|Thread-2|info|Attempting to load UI class edu.csus.ecs.pc2.ui.team.TeamView
+200520 121525.134|INFO|Thread-2|info|Loaded UI class edu.csus.ecs.pc2.ui.team.TeamView
+200520 121525.222|INFO|Thread-2|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200520 121525.223|INFO|Thread-2|info|handlePacket end Packet[LOGIN_SUCCESS] #102 SERVER0 @ site 1 -> TEAM1 @ site 1
+200520 121525.224|INFO|Thread-2|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #102 SERVER0 @ site 1 -> TEAM1 @ site 1

@@ -1,0 +1,27 @@
+200521 172225.804|CONFIG|http-nio-8080-exec-5|setFileHandlers|Now logging to H:\Университет\8 сем - FINISH!!!\Диплом\pc2v9-PC2_RELEASE_9_6_x\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200521 172225.805|INFO|http-nio-8080-exec-5|info|
+200521 172225.853|INFO|http-nio-8080-exec-5|info|Version 9 () Java ver 1.8.0_144 build  Windows 7 6.1 (amd64) 
+200521 172225.854|INFO|http-nio-8080-exec-5|startLog|Working directory is H:\Университет\8 сем - FINISH!!!\Диплом\pc2v9-PC2_RELEASE_9_6_x\pc2v9-PC2_RELEASE_9_6_x\pc2
+200521 172225.856|INFO|http-nio-8080-exec-5|startLog|Process id is 17500@admin-ПК
+200521 172225.856|INFO|http-nio-8080-exec-5|start|Starting ConnectionManager...
+200521 172225.871|INFO|http-nio-8080-exec-5|start|Started ConnectionManager
+200521 172225.874|INFO|http-nio-8080-exec-5|setClientServerAndPort|INIFile File location: file:/H:/Университет/8%20сем%20-%20FINISH!!!/Диплом/pc2v9-PC2_RELEASE_9_6_x/pc2v9-PC2_RELEASE_9_6_x/pc2/pc2v9.ini
+200521 172225.874|INFO|http-nio-8080-exec-5|setClientServerAndPort|setClientServerAndPort localhost parsed as localhost port 50002
+200521 172225.874|INFO|http-nio-8080-exec-5|info|Contacting server at localhost:50002
+200521 172225.875|INFO|http-nio-8080-exec-5|connectToMyServer|Connecting to localhost:50002
+200521 172322.635|INFO|Thread-3|receive|SocketException in receive for Socket[addr=localhost/127.0.0.1,port=50002,localport=49037]-4740725913183556893
+|java.net.SocketException: Connection reset
+|    at java.net.SocketInputStream.read (SocketInputStream.java:210)
+|    at java.net.SocketInputStream.read (SocketInputStream.java:141)
+|    at java.net.SocketInputStream.read (SocketInputStream.java:224)
+|    at java.io.ObjectInputStream$PeekInputStream.peek (ObjectInputStream.java:2598)
+|    at java.io.ObjectInputStream$BlockDataInputStream.peek (ObjectInputStream.java:2905)
+|    at java.io.ObjectInputStream$BlockDataInputStream.peekByte (ObjectInputStream.java:2915)
+|    at java.io.ObjectInputStream.readObject0 (ObjectInputStream.java:1502)
+|    at java.io.ObjectInputStream.readObject (ObjectInputStream.java:422)
+|    at edu.csus.ecs.pc2.core.transport.ConnectionHandlerThread.receive (ConnectionHandlerThread.java:151)
+|    at edu.csus.ecs.pc2.core.transport.ConnectionHandlerClientThread.run (ConnectionHandlerClientThread.java:65)
+200521 172322.639|FINER|Thread-3|run|THROW
+|edu.csus.ecs.pc2.core.transport.TransportException: Connection reset
+|    at edu.csus.ecs.pc2.core.transport.ConnectionHandlerThread.receive (ConnectionHandlerThread.java:155)
+|    at edu.csus.ecs.pc2.core.transport.ConnectionHandlerClientThread.run (ConnectionHandlerClientThread.java:65)

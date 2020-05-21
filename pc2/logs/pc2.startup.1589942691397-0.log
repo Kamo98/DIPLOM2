@@ -1,0 +1,20 @@
+200520 094451.494|CONFIG|main|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200520 094451.533|INFO|main|info|
+200520 094451.582|INFO|main|info|Version 9 () Java ver 14.0.1 build  Windows 10 10.0 (amd64) 
+200520 094451.584|INFO|main|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200520 094451.651|INFO|main|startLog|Process id is 12452@DESKTOP-PII08I3
+200520 094451.651|INFO|main|start|Starting ConnectionManager...
+200520 094451.819|INFO|main|start|Started ConnectionManager
+200520 094451.826|INFO|main|setClientServerAndPort|INIFile File location: file:/C:/Users/demid/Desktop/diplom/pc2v9-PC2_RELEASE_9_6_x/pc2/pc2v9.ini
+200520 094451.834|INFO|main|setClientServerAndPort|setClientServerAndPort localhost parsed as localhost port 50002
+200520 094451.840|INFO|main|info|Contacting server at localhost:50002
+200520 094451.843|INFO|main|connectToMyServer|Connecting to localhost:50002
+200520 094453.867|INFO|main|<init>|IO Exception:localhost
+200520 094453.872|INFO|main|connectToMyServer|Could not ConnectToMyServer()
+200520 094453.873|INFO|main|start|Exception contacting my server 
+|edu.csus.ecs.pc2.core.transport.TransportException: Connection refused: connect
+|    at edu.csus.ecs.pc2.core.transport.TransportManager.connectToMyServer (TransportManager.java:197)
+|    at edu.csus.ecs.pc2.core.transport.connection.ConnectionManager.connectToMyServer (ConnectionManager.java:99)
+|    at edu.csus.ecs.pc2.core.InternalController.start (InternalController.java:2853)
+|    at edu.csus.ecs.pc2.Starter.main (Starter.java:49)
+200520 094453.914|INFO|main|info|Unable to contact server at localhost:0 Connection refused: connect

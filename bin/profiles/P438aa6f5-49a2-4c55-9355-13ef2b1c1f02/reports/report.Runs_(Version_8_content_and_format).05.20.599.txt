@@ -1,0 +1,9 @@
+CSUS Programming Contest System
+Date: Wed May 20 22:22:49 GMT+07:00 2020
+Version 9.6.0 () Java ver 14.0.1 build 5102 Windows 10 10.0 (amd64) 
+
+Runs (Version 8 content and format) Report
+
+-- 0 runs --
+
+end report

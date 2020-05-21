@@ -1,0 +1,30 @@
+200521 081806.508|CONFIG|http-nio-8080-exec-5|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200521 081806.513|INFO|http-nio-8080-exec-5|info|
+200521 081806.586|INFO|http-nio-8080-exec-5|info|Version 9 () Java ver 1.8.0_141 build  Windows 10 10.0 (amd64) 
+200521 081806.589|INFO|http-nio-8080-exec-5|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200521 081806.592|INFO|http-nio-8080-exec-5|startLog|Process id is 9108@DESKTOP-PII08I3
+200521 081810.913|INFO|http-nio-8080-exec-5|start|Starting ConnectionManager...
+200521 081816.057|INFO|http-nio-8080-exec-5|start|Started ConnectionManager
+200521 081829.700|INFO|http-nio-8080-exec-5|setClientServerAndPort|INIFile File location: file:/C:/Users/demid/Desktop/diplom/pc2v9-PC2_RELEASE_9_6_x/pc2/pc2v9.ini
+200521 081829.701|INFO|http-nio-8080-exec-5|setClientServerAndPort|setClientServerAndPort localhost parsed as localhost port 50002
+200521 081830.584|INFO|http-nio-8080-exec-5|info|Contacting server at localhost:50002
+200521 081835.883|INFO|http-nio-8080-exec-5|connectToMyServer|Connecting to localhost:50002
+200521 081838.295|INFO|Thread-59|receiveUnencrypted|receiveUnencrypted(TransportWrapper, ConnectionHandlerID=Socket[addr=localhost/127.0.0.1,port=50002,localport=60628]--1547072117578378420)
+200521 081840.716|INFO|Thread-59|receiveUnencrypted|receiveUnencrypted Made a secret key for Socket[addr=localhost/127.0.0.1,port=50002,localport=60628]--1547072117578378420 key is com.sun.crypto.provider.DESKey@fffe7b8e
+200521 081840.716|INFO|Thread-59|getPublicKeyPacket|Generating Unencrypted Public Key Packet
+200521 081840.717|INFO|Thread-59|getPublicKeyPacket|checking key:= SunJCE Diffie-Hellman Public Key:
+y:
+    02e362b3 44457025 e38580ba e324f628 b81c2fda b0f62e7c 5e5220b1 49a63932
+    17e840a7 346be186 fa25270b 0cddaed4 249fb1bc 5e9b22a9 209715cf d94f098d
+    57e845bf 7b145d1c a284a157 8a96b0b0 d2195fb2 536f7fab 45fbf886 4340b1f2
+    40998724 6954229d f79cef9d 00214a56 c055b17b afe0db2a 1b7112fa 1387d055
+p:
+    f488fd58 4e49dbcd 20b49de4 9107366b 336c380d 451d0f7c 88b31c7c 5b2d8ef6
+    f3c923c0 43f0a55b 188d8ebb 558cb85d 38d334fd 7c175743 a31d186c de33212c
+    b52aff3c e1b12940 18118d7c 84a70a72 d686c403 19c80729 7aca950c d9969fab
+    d00a509b 0246d308 3d66a45d 419f9c7c bd894b22 1926baab a25ec355 e92f78c7
+g:
+    02
+l:
+    512
+200521 081840.718|INFO|Thread-59|getPublicKeyPacket|packet:= edu.csus.ecs.pc2.core.transport.TransportWrapper@3063073c

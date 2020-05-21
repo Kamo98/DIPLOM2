@@ -1,0 +1,11 @@
+/build/
+/dist/
+/logs/
+/profiles.properties
+/profiles/
+/testout/
+
+/.classes
+/realm.properties
+/VERSION
+/pc2ws.properties

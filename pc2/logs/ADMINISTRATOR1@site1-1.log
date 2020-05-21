@@ -1,0 +1,50 @@
+200520 224501.846|CONFIG|Thread-10|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200520 224501.846|INFO|Thread-10|info|
+200520 224504.306|INFO|Thread-10|info|Version 9 () Java ver 1.8.0_141 build  Windows 10 10.0 (amd64) 
+200520 224504.307|INFO|Thread-10|info|Login: administrator1 (aka administrator1)
+200520 224504.308|INFO|Thread-10|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200520 224504.309|INFO|Thread-10|startLog|Process id is 6568@DESKTOP-PII08I3
+200520 224504.309|INFO|Thread-10|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 224504.367|INFO|Thread-10|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+200520 224514.100|INFO|Thread-13|info| receiveObject(S) start got Packet[ESTABLISHED_CONNECTION] #29 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 224514.103|INFO|Thread-13|dumpPacket|Packet ESTABLISHED_CONNECTION (Seq #29, o#29 ) recieveObject
+200520 224514.103|INFO|Thread-13|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-PII08I3 @ 192.168.42.152) (Contest Id: Default--733014880925450290)
+200520 224514.103|INFO|Thread-13|dumpPacket|    To: SERVER0 @ site 0
+200520 224514.104|INFO|Thread-13|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/127.0.0.1,port=59676,localport=50002]-3561834776543736208
+200520 224514.104|INFO|Thread-13|info|handlePacket start Packet[ESTABLISHED_CONNECTION] #29 SERVER0 @ site 1 -> SERVER0 @ site 0
+200520 224514.104|INFO|Thread-13|dumpPacket|Packet ESTABLISHED_CONNECTION (Seq #29, o#29 ) handlePacket
+200520 224514.104|INFO|Thread-13|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-PII08I3 @ 192.168.42.152) (Contest Id: Default--733014880925450290)
+200520 224514.104|INFO|Thread-13|dumpPacket|    To: SERVER0 @ site 0
+200520 224514.104|INFO|Thread-13|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/127.0.0.1,port=59676,localport=50002]-3561834776543736208
+200520 224514.105|INFO|Thread-13|info| receiveObject(S) end   got Packet[ESTABLISHED_CONNECTION] #29 SERVER0 @ site 1 -> SERVER0 @ site 0
+200521 093218.507|CONFIG|Thread-65|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200521 093218.507|INFO|Thread-65|info|
+200521 093218.550|INFO|Thread-65|info|Version 9 () Java ver 1.8.0_141 build  Windows 10 10.0 (amd64) 
+200521 093218.550|INFO|Thread-65|info|Login: administrator1 (aka administrator1)
+200521 093218.550|INFO|Thread-65|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200521 093218.551|INFO|Thread-65|startLog|Process id is 7816@DESKTOP-PII08I3
+200521 093218.551|INFO|Thread-65|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200521 093218.551|INFO|Thread-65|info|handlePacket end Packet[LOGIN_SUCCESS] #47 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200521 093218.551|INFO|Thread-65|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #47 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200521 093220.878|INFO|Thread-68|info| receiveObject(S) start got Packet[ESTABLISHED_CONNECTION] #49 SERVER0 @ site 1 -> SERVER0 @ site 0
+200521 093220.881|INFO|Thread-68|dumpPacket|Packet ESTABLISHED_CONNECTION (Seq #49, o#49 ) recieveObject
+200521 093220.881|INFO|Thread-68|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-PII08I3 @ 192.168.42.152) (Contest Id: Default--733014880925450290)
+200521 093220.881|INFO|Thread-68|dumpPacket|    To: SERVER0 @ site 0
+200521 093220.881|INFO|Thread-68|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/127.0.0.1,port=61406,localport=50002]--1011979772227639541
+200521 093220.881|INFO|Thread-68|info|handlePacket start Packet[ESTABLISHED_CONNECTION] #49 SERVER0 @ site 1 -> SERVER0 @ site 0
+200521 093220.881|INFO|Thread-68|dumpPacket|Packet ESTABLISHED_CONNECTION (Seq #49, o#49 ) handlePacket
+200521 093220.881|INFO|Thread-68|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-PII08I3 @ 192.168.42.152) (Contest Id: Default--733014880925450290)
+200521 093220.881|INFO|Thread-68|dumpPacket|    To: SERVER0 @ site 0
+200521 093220.881|INFO|Thread-68|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/127.0.0.1,port=61406,localport=50002]--1011979772227639541
+200521 093220.882|INFO|Thread-68|info| receiveObject(S) end   got Packet[ESTABLISHED_CONNECTION] #49 SERVER0 @ site 1 -> SERVER0 @ site 0
+200521 093220.931|WARNING|Thread-61|loadUIClass|Unable to load UI, class = edu.csus.ecs.pc2.ui.CountDownMessage
+200521 093220.931|INFO|Thread-61|info|connectionDropped: shutting down ADMINISTRATOR1 @ site 1
+200521 122727.502|CONFIG|Thread-13|setFileHandlers|Now logging to H:\Университет\8 сем - FINISH!!!\Диплом\pc2v9-PC2_RELEASE_9_6_x\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200521 122727.504|INFO|Thread-13|info|
+200521 122727.521|INFO|Thread-13|info|Version 9 () Java ver 1.8.0_144 build  Windows 7 6.1 (amd64) 
+200521 122727.521|INFO|Thread-13|info|Login: administrator1 (aka administrator1)
+200521 122727.521|INFO|Thread-13|startLog|Working directory is H:\Университет\8 сем - FINISH!!!\Диплом\pc2v9-PC2_RELEASE_9_6_x\pc2v9-PC2_RELEASE_9_6_x\pc2
+200521 122727.522|INFO|Thread-13|startLog|Process id is 14172@admin-ПК
+200521 122727.522|INFO|Thread-13|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200521 122727.522|INFO|Thread-13|info|handlePacket end Packet[LOGIN_SUCCESS] #8 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200521 122727.522|INFO|Thread-13|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #8 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1

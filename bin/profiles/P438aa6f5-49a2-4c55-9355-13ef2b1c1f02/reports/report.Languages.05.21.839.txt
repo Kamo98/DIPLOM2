@@ -1,0 +1,12 @@
+CSUS Programming Contest System
+Date: четверг, 21 мая 2020 г., 17:20:32 KRAT
+Version 9.6.0 () Java ver 9.0.4 build 5102 Windows 7 6.1 (amd64) 
+
+Languages Report
+
+Contest date/time: never started
+
+
+-- 0 languages --
+
+end report

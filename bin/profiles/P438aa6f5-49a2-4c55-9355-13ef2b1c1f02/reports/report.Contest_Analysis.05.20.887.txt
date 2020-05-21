@@ -1,0 +1,23 @@
+CSUS Programming Contest System
+Date: среда, 20 мая 2020 г., 23:27:12 GMT+07:00
+Version 9.6.0 () Java ver 14.0.1 build 5102 Windows 10 10.0 (amd64) 
+
+Contest Analysis Report
+
+Contest Title: Programming Contest
+
+1 sites.
+ 1 Site 1             0 runs ( 0 unjudged,  0 deleted)   0 clars, 0 to All ( 0 unanswered,  0 deleted)
+   Total              0 runs ( 0 unjudged,  0 deleted)   0 clars, 0 to All ( 0 unanswered,  0 deleted)
+
+There are NO unanswered clars
+There are NO unjudged runs
+
+Runs after first Yes 
+There are NO 'Yes' judgements after earlier Yes judgements
+There are NO 'No' judgements after earlier Yes judgements
+
+Runs submitted by Teams not shown on scoreboard/standings
+
+
+end report

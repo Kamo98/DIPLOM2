@@ -1,0 +1,26 @@
+200521 171915.564|CONFIG|http-nio-8080-exec-6|setFileHandlers|Now logging to H:\Университет\8 сем - FINISH!!!\Диплом\pc2v9-PC2_RELEASE_9_6_x\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200521 171915.582|INFO|http-nio-8080-exec-6|info|
+200521 171915.594|INFO|http-nio-8080-exec-6|info|Version 9 () Java ver 1.8.0_144 build  Windows 7 6.1 (amd64) 
+200521 171915.595|INFO|http-nio-8080-exec-6|startLog|Working directory is H:\Университет\8 сем - FINISH!!!\Диплом\pc2v9-PC2_RELEASE_9_6_x\pc2v9-PC2_RELEASE_9_6_x\pc2
+200521 171915.596|INFO|http-nio-8080-exec-6|startLog|Process id is 11260@admin-ПК
+200521 171915.596|INFO|http-nio-8080-exec-6|start|Starting ConnectionManager...
+200521 171915.650|INFO|http-nio-8080-exec-6|start|Started ConnectionManager
+200521 171915.652|INFO|http-nio-8080-exec-6|setClientServerAndPort|INIFile File location: file:/H:/Университет/8%20сем%20-%20FINISH!!!/Диплом/pc2v9-PC2_RELEASE_9_6_x/pc2v9-PC2_RELEASE_9_6_x/pc2/pc2v9.ini
+200521 171915.652|INFO|http-nio-8080-exec-6|setClientServerAndPort|setClientServerAndPort localhost parsed as localhost port 50002
+200521 171915.652|INFO|http-nio-8080-exec-6|info|Contacting server at localhost:50002
+200521 171915.653|INFO|http-nio-8080-exec-6|connectToMyServer|Connecting to localhost:50002
+200521 171934.493|INFO|Thread-3|receive|EOFException in receive for Socket[addr=localhost/127.0.0.1,port=50002,localport=48831]-8097343755713698223
+|java.io.EOFException: null
+|    at java.io.ObjectInputStream$BlockDataInputStream.peekByte (ObjectInputStream.java:2917)
+|    at java.io.ObjectInputStream.readObject0 (ObjectInputStream.java:1502)
+|    at java.io.ObjectInputStream.readObject (ObjectInputStream.java:422)
+|    at edu.csus.ecs.pc2.core.transport.ConnectionHandlerThread.receive (ConnectionHandlerThread.java:151)
+|    at edu.csus.ecs.pc2.core.transport.ConnectionHandlerClientThread.run (ConnectionHandlerClientThread.java:65)
+200521 171934.497|FINER|Thread-3|run|THROW
+|edu.csus.ecs.pc2.core.transport.TransportException: null
+|    at edu.csus.ecs.pc2.core.transport.ConnectionHandlerThread.receive (ConnectionHandlerThread.java:158)
+|    at edu.csus.ecs.pc2.core.transport.ConnectionHandlerClientThread.run (ConnectionHandlerClientThread.java:65)
+200521 171934.498|FINER|Thread-3|run - e.getmessage is null()|THROW
+|edu.csus.ecs.pc2.core.transport.TransportException: null
+|    at edu.csus.ecs.pc2.core.transport.ConnectionHandlerThread.receive (ConnectionHandlerThread.java:158)
+|    at edu.csus.ecs.pc2.core.transport.ConnectionHandlerClientThread.run (ConnectionHandlerClientThread.java:65)

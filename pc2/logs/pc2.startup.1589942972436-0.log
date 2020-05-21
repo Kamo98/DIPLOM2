@@ -1,0 +1,30 @@
+200520 094932.518|CONFIG|main|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200520 094932.558|INFO|main|info|
+200520 094932.597|INFO|main|info|Version 9 () Java ver 14.0.1 build  Windows 10 10.0 (amd64) 
+200520 094932.599|INFO|main|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200520 094932.705|INFO|main|startLog|Process id is 10928@DESKTOP-PII08I3
+200520 094932.706|INFO|main|start|Starting ConnectionManager...
+200520 094932.886|INFO|main|start|Started ConnectionManager
+200520 094932.895|INFO|main|setClientServerAndPort|INIFile File location: file:/C:/Users/demid/Desktop/diplom/pc2v9-PC2_RELEASE_9_6_x/pc2/pc2v9.ini
+200520 094932.902|INFO|main|setClientServerAndPort|setClientServerAndPort localhost parsed as localhost port 50002
+200520 094932.907|INFO|main|info|Contacting server at localhost:50002
+200520 094932.910|INFO|main|connectToMyServer|Connecting to localhost:50002
+200520 094932.988|INFO|Thread-0|receiveUnencrypted|receiveUnencrypted(TransportWrapper, ConnectionHandlerID=Socket[addr=localhost/127.0.0.1,port=50002,localport=56285]-1206150215932199385)
+200520 094933.036|INFO|Thread-0|receiveUnencrypted|receiveUnencrypted Made a secret key for Socket[addr=localhost/127.0.0.1,port=50002,localport=56285]-1206150215932199385 key is com.sun.crypto.provider.DESKey@fffe7888
+200520 094933.037|INFO|Thread-0|getPublicKeyPacket|Generating Unencrypted Public Key Packet
+200520 094933.039|INFO|Thread-0|getPublicKeyPacket|checking key:= SunJCE Diffie-Hellman Public Key:
+y:
+    757fd461 315cde2f 9bc2ca36 451a5a95 1c6945bb f4b932d3 4dd7a672 895bc9af
+    0a8f4a41 83fd708a 65bda258 62776a23 90fa0d8c 178eece6 bf3a22e4 67ca31f6
+    da794ea7 1d067996 3e584805 db5bb5a1 5ae5423d 3b8f444e 12004c8b 5268407a
+    477cc6fc 1d3aa991 83425fbb 31077c9a 8681bc1f d31b0826 77a8caf1 95d9ada1
+p:
+    f488fd58 4e49dbcd 20b49de4 9107366b 336c380d 451d0f7c 88b31c7c 5b2d8ef6
+    f3c923c0 43f0a55b 188d8ebb 558cb85d 38d334fd 7c175743 a31d186c de33212c
+    b52aff3c e1b12940 18118d7c 84a70a72 d686c403 19c80729 7aca950c d9969fab
+    d00a509b 0246d308 3d66a45d 419f9c7c bd894b22 1926baab a25ec355 e92f78c7
+g:
+    02
+l:
+    512
+200520 094933.041|INFO|Thread-0|getPublicKeyPacket|packet:= edu.csus.ecs.pc2.core.transport.TransportWrapper@532b9614

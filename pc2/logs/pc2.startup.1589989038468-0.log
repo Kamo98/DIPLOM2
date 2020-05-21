@@ -1,0 +1,12 @@
+200520 223718.555|CONFIG|main|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200520 223718.573|INFO|main|info|
+200520 223718.610|INFO|main|info|Version 9 () Java ver 1.8.0_141 build  Windows 10 10.0 (amd64) 
+200520 223718.611|INFO|main|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200520 223718.612|INFO|main|startLog|Process id is 8716@DESKTOP-PII08I3
+200520 223718.612|INFO|main|start|Starting ConnectionManager...
+200520 223718.777|INFO|main|start|Started ConnectionManager
+200520 223718.782|INFO|main|setClientServerAndPort|INIFile File location: file:/C:/Users/demid/Desktop/diplom/pc2v9-PC2_RELEASE_9_6_x/pc2/pc2v9.ini
+200520 223718.782|INFO|main|setClientServerAndPort|setClientServerAndPort localhost parsed as localhost port 50002
+200520 223718.782|INFO|main|info|Contacting server at localhost:50002
+200520 223718.784|INFO|main|connectToMyServer|Connecting to localhost:50002
+200520 223718.817|INFO|Thread-1|receiveUnencrypted|receiveUnencrypted(TransportWrapper, ConnectionHandlerID=Socket[addr=localhost/127.0.0.1,port=50002,localport=59595]--9041928610050155554)

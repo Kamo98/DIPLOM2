@@ -1,0 +1,151 @@
+CSUS Programming Contest System
+Date: четверг, 21 мая 2020 г., 17:20:33 KRAT
+Version 9.6.0 () Java ver 9.0.4 build 5102 Windows 7 6.1 (amd64) 
+
+ICPC Tools Event Feed Report
+-- Start Event Feed XML --
+<contest>
+  <info>
+    <length>5:00:00</length>
+    <penalty>20</penalty>
+    <started>False</started>
+    <running>False</running>
+    <starttime>undefined</starttime>
+    <title>Programming Contest</title>
+    <short-title>Programming Contest</short-title>
+    <contest-id>default--733014880925450290</contest-id>
+    <scoreboard-freeze-length>01:00:00</scoreboard-freeze-length>
+  </info>
+  <judgement>
+    <acronym>AC</acronym>
+    <id>1</id>
+    <name>Yes</name>
+  </judgement>
+  <judgement>
+    <acronym>CE</acronym>
+    <id>2</id>
+    <name>No - Compilation Error</name>
+  </judgement>
+  <judgement>
+    <acronym>RTE</acronym>
+    <id>3</id>
+    <name>No - Run-time Error</name>
+  </judgement>
+  <judgement>
+    <acronym>TLE</acronym>
+    <id>4</id>
+    <name>No - Time Limit Exceeded</name>
+  </judgement>
+  <judgement>
+    <acronym>WA</acronym>
+    <id>5</id>
+    <name>No - Wrong Answer</name>
+  </judgement>
+  <judgement>
+    <acronym>EO</acronym>
+    <id>6</id>
+    <name>No - Excessive Output</name>
+  </judgement>
+  <judgement>
+    <acronym>OFE</acronym>
+    <id>7</id>
+    <name>No - Output Format Error</name>
+  </judgement>
+  <judgement>
+    <acronym>JE</acronym>
+    <id>8</id>
+    <name>No - Other - Contact Staff</name>
+  </judgement>
+  <problem>
+    <id>1</id>
+    <name>summa</name>
+    <letter>A</letter>
+    <test_data_count>3</test_data_count>
+  </problem>
+  <team>
+    <external-id>1001</external-id>
+    <id>1</id>
+    <name>team1</name>
+    <nationality>XXX</nationality>
+    <region/>
+    <university>team1</university>
+    <university-short-name/>
+  </team>
+  <team>
+    <external-id>1002</external-id>
+    <id>2</id>
+    <name>team2</name>
+    <nationality>XXX</nationality>
+    <region/>
+    <university>team2</university>
+    <university-short-name/>
+  </team>
+  <team>
+    <external-id>1003</external-id>
+    <id>3</id>
+    <name>team3</name>
+    <nationality>XXX</nationality>
+    <region/>
+    <university>team3</university>
+    <university-short-name/>
+  </team>
+  <team>
+    <external-id>1004</external-id>
+    <id>4</id>
+    <name>team4</name>
+    <nationality>XXX</nationality>
+    <region/>
+    <university>team4</university>
+    <university-short-name/>
+  </team>
+  <team>
+    <external-id>1005</external-id>
+    <id>5</id>
+    <name>team5</name>
+    <nationality>XXX</nationality>
+    <region/>
+    <university>team5</university>
+    <university-short-name/>
+  </team>
+  <team>
+    <external-id>1006</external-id>
+    <id>6</id>
+    <name>team6</name>
+    <nationality>XXX</nationality>
+    <region/>
+    <university>team6</university>
+    <university-short-name/>
+  </team>
+  <team>
+    <external-id>1007</external-id>
+    <id>7</id>
+    <name>team7</name>
+    <nationality>XXX</nationality>
+    <region/>
+    <university>team7</university>
+    <university-short-name/>
+  </team>
+  <team>
+    <external-id>1008</external-id>
+    <id>8</id>
+    <name>team8</name>
+    <nationality>XXX</nationality>
+    <region/>
+    <university>team8</university>
+    <university-short-name/>
+  </team>
+  <team>
+    <external-id>1009</external-id>
+    <id>9</id>
+    <name>team9</name>
+    <nationality>XXX</nationality>
+    <region/>
+    <university>team9</university>
+    <university-short-name/>
+  </team>
+</contest>
+
+
+-- End Event Feed XML --
+
+end report

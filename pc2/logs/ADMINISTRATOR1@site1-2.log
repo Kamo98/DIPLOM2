@@ -1,0 +1,9 @@
+200521 093221.001|CONFIG|Thread-71|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200521 093221.001|INFO|Thread-71|info|
+200521 093221.039|INFO|Thread-71|info|Version 9 () Java ver 1.8.0_141 build  Windows 10 10.0 (amd64) 
+200521 093221.041|INFO|Thread-71|info|Login: administrator1 (aka administrator1)
+200521 093221.041|INFO|Thread-71|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200521 093221.045|INFO|Thread-71|startLog|Process id is 7816@DESKTOP-PII08I3
+200521 093221.045|INFO|Thread-71|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+200521 093221.046|INFO|Thread-71|info|handlePacket end Packet[LOGIN_SUCCESS] #52 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+200521 093221.046|INFO|Thread-71|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #52 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1

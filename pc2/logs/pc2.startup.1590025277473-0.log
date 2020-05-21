@@ -1,0 +1,11 @@
+200521 084117.532|CONFIG|http-nio-8080-exec-2|setFileHandlers|Now logging to C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2\logs directory.
+200521 084117.536|INFO|http-nio-8080-exec-2|info|
+200521 084117.595|INFO|http-nio-8080-exec-2|info|Version 9 () Java ver 1.8.0_141 build  Windows 10 10.0 (amd64) 
+200521 084117.596|INFO|http-nio-8080-exec-2|startLog|Working directory is C:\Users\demid\Desktop\diplom\pc2v9-PC2_RELEASE_9_6_x\pc2
+200521 084117.598|INFO|http-nio-8080-exec-2|startLog|Process id is 12048@DESKTOP-PII08I3
+200521 084117.598|INFO|http-nio-8080-exec-2|start|Starting ConnectionManager...
+200521 084117.633|INFO|http-nio-8080-exec-2|start|Started ConnectionManager
+200521 084117.636|INFO|http-nio-8080-exec-2|setClientServerAndPort|INIFile File location: file:/C:/Users/demid/Desktop/diplom/pc2v9-PC2_RELEASE_9_6_x/pc2/pc2v9.ini
+200521 084117.636|INFO|http-nio-8080-exec-2|setClientServerAndPort|setClientServerAndPort localhost parsed as localhost port 50002
+200521 084117.636|INFO|http-nio-8080-exec-2|info|Contacting server at localhost:50002
+200521 084117.642|INFO|http-nio-8080-exec-2|connectToMyServer|Connecting to localhost:50002

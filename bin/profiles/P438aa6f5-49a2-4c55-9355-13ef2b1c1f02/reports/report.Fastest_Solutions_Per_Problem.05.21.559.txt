@@ -1,0 +1,16 @@
+CSUS Programming Contest System
+Date: четверг, 21 мая 2020 г., 17:23:21 KRAT
+Version 9.6.0 () Java ver 9.0.4 build 5102 Windows 7 6.1 (amd64) 
+
+Fastest Solutions Per Problem Report
+
+There are 0 runs.
+
+Problem summa
+
+Rank Elap Run# Team
+
+No solutions for problem summa
+
+
+end report
